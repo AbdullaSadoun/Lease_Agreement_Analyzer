@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lease Agreement Analyzer</title>
+    <link rel="stylesheet" href="{{ url_for('static', path='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Lease Agreement Analyzer</h1>
+        <div id="upload-section">
+            <form id="upload-form">
+                <div class="upload-area" id="drop-zone">
+                    <input type="file" id="file-input" accept=".pdf,.doc,.docx,.txt" hidden>
+                    <label for="file-input">
+                        <div class="upload-prompt">
+                            <img src="{{ url_for('static', path='upload-icon.svg') }}" alt="Upload">
+                            <p>Drop your lease agreement here or click to upload</p>
+                        </div>
+                    </label>
+                </div>
+            </form>
+        </div>
+        <div id="analysis-results" class="hidden">
+            <div class="risk-summary"></div>
+            <div class="rule-checks"></div>
+            <div class="llm-analysis"></div>
+        </div>
+        <div id="loading" class="hidden">
+            <div class="spinner"></div>
+            <p>Analyzing your lease agreement...</p>
+        </div>
+    </div>
+    <script src="{{ url_for('static', path='script.js') }}"></script>
+</body>
+</html>

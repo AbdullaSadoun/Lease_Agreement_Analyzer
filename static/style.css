@@ -1,0 +1,97 @@
+:root {
+    --primary: #2563eb;
+    --danger: #ef4444;
+    --warning: #f59e0b;
+    --success: #22c55e;
+}
+
+body {
+    font-family: system-ui, -apple-system, sans-serif;
+    line-height: 1.5;
+    margin: 0;
+    padding: 20px;
+    background: #f9fafb;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    color: #1f2937;
+}
+
+.upload-area {
+    border: 2px dashed #cbd5e1;
+    border-radius: 8px;
+    padding: 40px;
+    text-align: center;
+    cursor: pointer;
+    transition: border-color 0.3s;
+}
+
+.upload-area:hover {
+    border-color: var(--primary);
+}
+
+.upload-prompt {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+}
+
+.upload-prompt img {
+    width: 48px;
+    height: 48px;
+}
+
+.risk-summary {
+    padding: 16px;
+    border-radius: 8px;
+    margin: 20px 0;
+}
+
+.risk-HIGH {
+    background: #fee2e2;
+    border: 1px solid var(--danger);
+}
+
+.risk-MEDIUM {
+    background: #fef3c7;
+    border: 1px solid var(--warning);
+}
+
+.risk-LOW {
+    background: #dcfce7;
+    border: 1px solid var(--success);
+}
+
+.rule-checks, .llm-analysis {
+    background: white;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px 0;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.spinner {
+    width: 40px;
+    height: 40px;
+    border: 4px solid #e5e7eb;
+    border-top: 4px solid var(--primary);
+    border-radius: 50%;
+    margin: 20px auto;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.hidden {
+    display: none;
+}

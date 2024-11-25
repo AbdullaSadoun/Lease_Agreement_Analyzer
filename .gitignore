@@ -1,0 +1,14 @@
+# Ignore Trash directory and its contents
+Trash/
+Trash/*
+
+# Ensure these files are not used by AI assistants
+# @copilot-ignore-start
+Trash/main2.py
+Trash/pdf_to_txt.py
+Trash/test_llama.py
+# @copilot-ignore-end
+
+# @codewhisperer-ignore-start
+Trash/
+# @codewhisperer-ignore-end

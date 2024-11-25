@@ -1,0 +1,22 @@
+|-- .gitignore
+|-- Trash
+    |-- main2.py
+    |-- pdf_to_txt.py
+    |-- test_llama.py
+|-- __pycache__
+    |-- law_processor.cpython-312.pyc
+    |-- main.cpython-312.pyc
+|-- law_processor.py
+|-- main.py
+|-- notes.md
+|-- nova_scotia_law.txt
+|-- requirements.txt
+|-- residential tenancies-3.pdf
+|-- sample_leases
+    |-- 1693 Vernon Street, Unit #2, Middle Level.pdf
+|-- static
+    |-- script.js
+    |-- style.css
+    |-- upload-icon.svg
+|-- templates
+    |-- index.html

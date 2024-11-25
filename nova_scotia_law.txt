@@ -1,0 +1,1890 @@
+Residential Tenancies Act
+CHAPTER 401 OF THE REVISED STATUTES, 1989
+as amended by
+1992, c. 31, ss. 1, 4(b) & (c), 5(1), 8(1) & (2) (in part), 9, 10, 14-16;
+1993, c. 40, ss. 1-7, 8(2)-14; 1994, c. 32; 1997, c. 7; 2002, c. 10, ss. 23-36;
+2002, c. 30, ss. 16-18; 2010, c. 72; 2011, c. 70; 2012, c. 64; 2014, c. 34, ss. 57-59; 
+2016, c. 27; 2018, c. 41; 2021, c. 36; 2023, c. 22, s. 12; 2024, c. 12, ss. 3, 9, 24
+© 2024 His Majesty the King in right of the Province of Nova Scotia
+Published by Authority of the Speaker of the House of Assembly
+Halifax
+This page is intentionally blank.SEPTEMBER 30, 2024CHAPTER 401 OF THE REVISED STATUTES, 1989
+amended 1992, c. 31, ss. 1, 4(b) & (c), 5(1), 8(1) & (2) (in part), 9, 10, 14-16;
+1993, c. 40, ss. 1-7, 8(2)-14; 1994, c. 32; 1997, c. 7; 2002, c. 10, ss. 23-36;
+2002, c. 30, ss. 16-18; 2010, c. 72; 2011, c. 70; 2012, c. 64; 2014, c. 34, ss. 57-59; 
+2016, c. 27; 2018, c. 41; 2021, c. 36; 2023, c. 22, s. 12; 2024, c. 12, ss. 3, 9, 24
+An Act Respecting
+Residential Tenancies
+Table of Contents
+(The table of contents is not part of the statute)
+Section
+Short title........................................................................................................................................... 1
+Purpose
+Purpose.............................................................................................................................................. 1A
+Interpretation
+Interpretation..................................................................................................................................... 2
+Calculation of time periods ............................................................................................................... 2A
+Landlord and Tenant
+Application of Act............................................................................................................................. 3
+Application of Acts
+Certain Acts do not apply.................................................................................................................. 4
+Disposal of property of tenant........................................................................................................... 5
+Free access by tenant......................................................................................................................... 5A
+Application Fee
+Prohibition......................................................................................................................................... 6
+Requirement for Lease
+Entitlement to documents and information....................................................................................... 7
+Standard form of lease ...................................................................................................................... 8
+Guarantee Agreements
+Guarantee agreement......................................................................................................................... 8A
+Form of guarantee agreement ........................................................................................................... 8B
+Notice of change in information ....................................................................................................... 8C
+Service of notice and other documents ............................................................................................. 8D
+Limit of guarantor’s obligation......................................................................................................... 8E
+Guarantor responsible for obligations of all tenants at location ....................................................... 8F
+Documents served by landlord on guarantor .................................................................................... 8G
+Notice of rental increase ................................................................................................................... 8H
+Changes to landlord rules.................................................................................................................. 8I
+Termination of guarantee agreement on assignment of lease ........................................................... 8J
+Notice to guarantor of subletting ...................................................................................................... 8K
+Notice to guarantor on tenant’s failure to comply ............................................................................ 8L
+Termination of guarantee agreement................................................................................................. 8M2 residential tenancies R.S., c. 401
+SEPTEMBER 30, 2024Statutory Conditions
+Statutory conditions ........................................................................................................................... 9
+Landlord’s rules ................................................................................................................................. 9A
+Assignment and subletting................................................................................................................. 9B
+Notice to Quit
+Notice to quit ..................................................................................................................................... 10
+Renewal term and daily rents ............................................................................................................ 10A
+Early termination for sale of residential complex............................................................................ 10AA
+Early termination for demolition, repairs or renovations ................................................................ 10AB
+Compensation .................................................................................................................................. 10AC
+Order by Director............................................................................................................................. 10AD
+Early termination of year-to-year lease ........................................................................................... 10AE
+Early termination upon income reduction ......................................................................................... 10B
+Early termination for health reasons.................................................................................................. 10C
+Early termination upon acceptance into home................................................................................... 10D
+Notice by personal representative...................................................................................................... 10E
+Early termination for domestic violence reasons............................................................................... 10F
+Certificate Confirming Grounds to
+Terminate Tenancy Due to Domestic Violence
+Delegation by Director of Victim Services........................................................................................ 10G
+Application for certificate.................................................................................................................. 10H
+Director of Victim Services not compellable..................................................................................... 10I
+Rental Increase
+Restrictions on increasing rent........................................................................................................... 11
+Rent increase in land-lease community ............................................................................................. 11A
+Annual allowable rent increase amount............................................................................................. 11B
+Security Deposit
+Security deposit ................................................................................................................................. 12
+Return of security deposit.................................................................................................................. 12A
+Application for return of security deposit.......................................................................................... 12B
+Procedures
+Application to Director...................................................................................................................... 13
+Director’s decision............................................................................................................................. 14
+Service of documents......................................................................................................................... 15
+Duties and powers of Director........................................................................................................... 16
+Order by Director............................................................................................................................... 17
+Contents of order ............................................................................................................................... 17A
+Consequences of failure to appeal ..................................................................................................... 17B
+Appeal to Small Claims Court........................................................................................................... 17C
+Duties of Court on appeal .................................................................................................................. 17D
+Appeal to Court.................................................................................................................................. 17E
+Evidence ............................................................................................................................................ 17F
+Director of Residential Tenancies
+Director of Residential Tenancies...................................................................................................... 18A
+Personnel
+Personnel............................................................................................................................................ 19
+Declaration of interest........................................................................................................................ 19A
+No action lies ..................................................................................................................................... 19B
+Protection of Tenants
+Consequence of retaliatory action by landlord .................................................................................. 20R.S., c. 401 residential tenancies 3
+SEPTEMBER 30, 2024Enforcement
+Right of entry..................................................................................................................................... 22A
+Penalty
+Offence and penalty........................................................................................................................... 23
+Consent to prosecution ...................................................................................................................... 24
+Application
+Application of Act ............................................................................................................................. 25
+Regulations........................................................................................................................................ 26
+Waiver of fee ..................................................................................................................................... 27
+Manufactured-home Advisory Committee
+Establishment and composition of committee................................................................................... 29
+ __________
+Short title
+1 This Act may be cited as the Residential Tenancies Act .  R.S., c. 401,
+s. 1.
+PURPOSE
+Purpose
+1A The purpose of this Act is to provide landlords and tenants with an
+efficient and cost-effective means for settling disputes.  1993, c. 40, s. 1.
+INTERPRETATION
+Interpretation
+2 In this Act,
+(a) “anniversary date” means a date on which a lease was first
+entered into, and refers to the same date in a subsequent year as long as the
+lease continues, regardless of whether the lease is for a term running week to
+week, month to month, year to year, or for a fixed term;
+(aa) “day” means a calendar day;
+(ab) “Director” means the Director of Residential Tenancies desig -
+nated pursuant to this Act;
+(aba) “Director of Victim Services” has the same meaning as in the
+Victims’ Rights and Services Act , but includes a person authorized under
+Section 10G to exercise the powers and carry out the duties of the Director
+of Victim Services;
+(abb) “domestic violence” has the same meaning as in the Domestic
+Violence Intervention Act ;
+(abc) “family member” means, in relation to an individual, any of
+the following:
+(i) the individual’s spouse,4 residential tenancies R.S., c. 401
+SEPTEMBER 30, 2024(ii) a child of the individual or the individual’s spouse,
+(iii) a parent or legal guardian of the individual or the indi -
+vidual’s spouse;
+(ac) “fixed-term lease” means a lease that is entered into for a
+fixed period of time, which includes the day of commencement and the day
+of termination stated in the lease;
+(ad) “guarantee agreement” means a written agreement between a
+landlord and a guarantor in which the guarantor undertakes to be responsible
+for specific obligations of a tenant under a written lease or under this Act if
+the tenant fails to comply with those obligations;
+(ae) “guarantor” means a person who enters into a guarantee
+agreement with a landlord;
+(b) “land-lease community” means any lot, piece or parcel of land
+upon which two or more occupied manufactured homes are located for a
+period of ten days or more, either free of charge or for revenue purposes, and
+includes any building, structure or enclosure used or intended for use as part
+of the equipment of such land-lease community;
+(c) “landlord” includes a person who is deemed to be a landlord, a
+lessor, an owner, the person giving or permitting the occupation of premises
+and such person’s heirs and assigns and legal representatives;
+(d) “manufactured home” means any trailer that is
+(i) designed for or intended to be equipped with wheels,
+whether or not it is so equipped, and
+(ii) constructed or manufactured to provide a residence for
+one or more persons,
+but does not include a travel trailer or tent trailer otherwise designed;
+(e) “manufactured home space” means a plot of ground within a
+land-lease community designed to accommodate one manufactured home;
+(f) “Minister” means the Minister of Service Nova Scotia;
+(fa) “police agency” has the same meaning as “agency” in the
+Police Act;
+(fb) “public housing program” means a rental program offered to
+tenants of low and modest income by reason of funding provided by the Gov -
+ernment of Canada, the Province or a municipality or any agency thereof;
+(g) “rent” means money or other value payable in consideration
+of the right to possess or occupy residential premises;
+(h) “residential premises” includes any house, dwelling, apart -
+ment, flat, tenement, manufactured home, land-lease community, manufac -
+tured home space or other place that is occupied or may be occupied by an
+individual as a residence or that part of any such place that is or may be
+occupied by an individual as a residence, but does not include
+(i) a university, college or institution of learning, a hospi -
+tal, psychiatric hospital or maternity hospital, a municipal home, or a
+jail, prison or reformatory,R.S., c. 401 residential tenancies 5
+SEPTEMBER 30, 2024(ii) a maternity home that is licensed under the Children’s
+Services Act ,
+(iii) a nursing home to which the Homes for Special Care
+Act applies,
+(iv) a roofed accommodation registered under the Short-
+term Rentals Registration Act , but only while it is being used as a
+short-term rental as defined in that Act,
+(v) a residential care facility licensed under the Homes for
+Special Care Act , or
+(vi) any other class of premises prescribed by regulation;
+(i) “residential tenancy officer” means a residential tenancy
+officer appointed under this Act;
+(ia) “Small Claims Court” means the Small Claims Court of Nova
+Scotia;
+(ib) “spouse” means, in relation to an individual,
+(i) the legally married spouse of the individual, or
+(ii) another individual who has cohabited with the individ -
+ual as a spouse continuously for a period of not less than one year;
+(j) “tenant” means
+(i) an individual who has paid or agreed to pay rent to
+occupy residential premises,
+(ii) an individual who is permitted to occupy residential
+premises under an assignment or sublet to which the landlord has
+consented under Section 9B, and
+(iii) an heir, assign or personal representative of an individ -
+ual referred to in subclause (i) or (ii);
+(ja) “victim” has the same meaning as in the Domestic Violence
+Intervention Act ;
+(k) “wear and tear” means the usual degree of depreciation or
+deterioration caused by living in a residential premise, relative to the dura -
+tion of the lease.  R.S., c. 401, s. 2; 1992, c. 31, s. 1; 1993, c. 40, s. 2; 2002, c. 30, s. 23;
+2010, c. 72, ss. 1, 22; 2012, c. 64, s. 1; 2014, c. 34, s. 57; 2018, c. 41, s. 1; O.I.C. 2019-149;
+2021, c. 36, s. 1; O.I.C. 2023-148; 2023, c. 22, s. 12; 2024, c. 12, s. 3; revision corrected.
+Calculation of time periods
+2A (1) For greater certainty, where a period of time is calculated from
+a given day, act or event, that period of time does not include that day or the day on
+which the act or event occurred.
+(2) Where a notice under this Act is to be given based on a period
+of one or more months, the notice must be given on or before the day before the day
+of the month that rent is payable under the lease.  2018, c. 41, s. 2.6 residential tenancies R.S., c. 401
+SEPTEMBER 30, 2024LANDLORD AND TENANT
+Application of Act
+3 (1) Notwithstanding any agreement, declaration, waiver or state -
+ment to the contrary, this Act applies when the relation of landlord and tenant exists
+between a person and an individual in respect of residential premises.
+(2) For the purposes of subsection (1), the relation of landlord and
+tenant is deemed to exist in respect of residential premises between an individual
+and a person when an individual
+(a) possesses or occupies residential premises and has paid
+or agreed to pay rent to the person;
+(b) makes an agreement with the person by which the indi -
+vidual is granted the right to possess or occupy residential premises
+in consideration of the payment of or promise to pay rent;
+(c) has possessed or occupied residential premises and has
+paid or agreed to pay rent to the person.  R.S., c. 401, s. 3.
+APPLICATION OF ACTS
+Certain Acts do not apply
+4 When the relation of landlord and tenant exists in respect of residen -
+tial premises by virtue of this Act or otherwise,
+(a) the Overholding Tenants Act ; and
+(b) the Tenancies and Distress for Rent Act,
+do not apply to the landlord or to the tenant or in respect of the residential premises
+or any goods or chattels on the residential premises.  R.S., c. 401, s. 4.
+Disposal of property of tenant 
+5 (1) A landlord shall not hold or dispose of a tenant’s personal
+property except in accordance with an order made pursuant to Section 17 or except
+as otherwise authorized by law.
+(2) Nothing in subsection (1) entitles a tenant to leave personal
+property in the residential premises after the tenancy has terminated.
+(3) Subject to the regulations, where a tenant leaves personal
+property in the residential premises after the tenancy has terminated or the tenant
+has abandoned the residential premises, the landlord shall do an inventory, to be
+filed with the Director, of the personal property and may at any time after thirty
+days dispose of the property in the manner determined by regulation and any reve -
+nue received from such property shall be paid first, towards rent owed, and second,
+for any storage costs or damages, with respect to the residential premises and any
+balance shall be turned over to the Public Trustee.  R.S., c. 401, s. 5; 1993, c. 40, s. 3; 1997,
+c. 7, s. 1; 2002, c. 30, s. 16; 2018, c. 41, s. 3.
+Free access by tenant
+5A A landlord shall not bar a tenant from free access to the residential
+premises during the term of the tenancy.  R.S., c. 401, s. 5; 1993, c. 40, s. 3.R.S., c. 401 residential tenancies 7
+SEPTEMBER 30, 2024APPLICATION FEE
+Prohibition
+6 (1) No person shall demand, accept or receive, from an individual
+who may, or applies to, become a tenant of that person, a sum of money or other
+value in consideration of or respecting the application by the individual to become a
+tenant of that person.
+(2) For the purpose of a proceeding in respect of subsection (1),
+(a) a person who contravenes subsection (1) is deemed to
+be a landlord;
+(b) the individual from whom that person demands,
+accepts or receives a sum of money or other value is deemed to be a
+tenant; and
+(c) a relation of landlord and tenant is deemed to exist
+between them.
+(3) Notwithstanding subsection (1), a landlord may charge a sum
+not exceeding the amount prescribed by regulation for expenses actually incurred in
+respect of a sublease or an assignment.
+(4) Notwithstanding subsection (3), tenants who are leasing under
+a public housing program shall not sublet the residential premises.  R.S., c. 401, s. 6;
+1993, c. 40, s. 4; 2010, c. 72, s. 2.
+REQUIREMENT FOR LEASE
+Entitlement to documents and information
+7 (1) No landlord shall grant a lease or possession or occupancy of
+residential premises to a tenant unless the landlord has provided the tenant with a
+copy or reproduction of this Act without cost within ten days of the earliest of
+(a) the date specified in the lease as the start of the ten -
+ancy;
+(b) the date upon which the tenant signs the lease;
+(c) the date upon which keys to the residential premises
+are delivered to the tenant by the landlord; and
+(d) the date upon which the tenant takes possession of the
+residential premises or occupies those premises.
+(1A) For the purpose of subsection (1), where there is more than
+one tenant occupying residential premises, delivery of the copy or reproduction of
+this Act by the landlord is compliance with that subsection if it is made to any one
+of those tenants.
+(1B) For the purpose of subsection (1),
+(a) the copy or reproduction of this Act provided by a
+landlord may be in paper or electronic form; and
+(b) a landlord is deemed to have provided the tenant with a
+copy or reproduction of this Act if the landlord provides the tenant8 residential tenancies R.S., c. 401
+SEPTEMBER 30, 2024with a hyperlink to, or the web address (uniform resource locator) for,
+a copy of this Act published online
+(i) by the King’s Printer, or
+(ii) by authority of the Speaker of the Assembly.
+(2) A landlord, with respect to every written tenancy agreement
+entered into, shall when the tenancy agreement is initially entered into, or if it is
+entered into before the first day of February, 1985, on the anniversary date thereof,
+provide the standard form of lease as prescribed by regulation for both the landlord
+and tenant to sign and a copy signed by both the landlord and tenant shall be
+retained by the tenant at the time of the signing or given to the tenant within ten
+days thereof.
+(3) Where a landlord fails to provide a copy or reproduction of
+this Act in accordance with subsection (1) or a copy of a written lease in accordance
+with subsection (2), the tenant
+(a) at any time before the tenant receives a copy or repro -
+duction of this Act or the written lease from the landlord; or
+(b) within one month after the tenant receives a copy or
+reproduction of this Act or the written lease from the landlord,
+may give notice to the landlord that the tenant will quit and deliver up the premises
+on a specified day within a period of three months from the day the notice is given.
+(4) A tenant may apply to the Director for permission to pay the
+rent in trust to the Director until the landlord provides the tenant with an executed
+copy of the lease and a copy or reproduction of this Act.
+(5) When a landlord provides an executed copy of the lease or a
+copy or reproduction of this Act, the landlord may request the tenant to execute an
+acknowledgement that the copies have been received.
+(6) The landlord shall provide the tenant in writing with
+(a) the landlord’s name;
+(b) the landlord’s address; or
+(c) the name and telephone number of a person responsi -
+ble for the premises.
+(7) Tenants who are leasing pursuant to a public housing program
+shall, with respect to that public housing program,
+(a) provide income verification as required; and
+(b) continue to meet the qualifications required pursuant to
+the provisions of that public housing program.
+(8) For the purpose of subsection (7), qualifications required pur -
+suant to the provisions of a public housing program means income and family com -
+position and those qualifications shall be attached to the lease.  R.S., c. 401, s. 7; 1993,
+c. 40, s. 5; 1997, c. 7, s. 2; 2010, c. 72, s. 3; 2016, c. 27, s. 1.R.S., c. 401 residential tenancies 9
+SEPTEMBER 30, 2024Standard form of lease
+8 (1) In addition to the statutory conditions, a landlord and tenant
+may provide in a standard form of lease for other benefits and obligations which do
+not conflict with this Act.
+(2) An additional benefit or obligation under subsection (1) is
+void unless it appears on both the landlord’s and tenant’s copies of the standard
+form of lease.
+(3) Any alteration of or deletion from provisions that a standard
+form of lease is required by regulation to contain is void.
+(4) On or after the first day of February, 1985, a landlord and a
+tenant who enter into a written tenancy agreement or renew a written tenancy agree -
+ment and who do not sign a standard form of lease are deemed to have done so and
+all provisions of this Act and the standard form of lease apply.
+(5) A landlord and tenant who have an oral tenancy agreement
+and who do not sign a standard form of lease are deemed to have done so and all
+provisions of this Act and the standard form of lease apply.  R.S., c. 401, s. 8.
+GUARANTEE AGREEMENTS
+Guarantee agreement
+8A (1) A guarantee agreement must be
+(a) in writing;
+(b) signed by the landlord and the guarantor; and
+(c) in the prescribed form, if any.
+(2) A guarantee agreement is only valid if a written lease between
+the tenant and landlord exists.
+(3) A provision of a guarantee agreement is void to the extent that
+it restricts or waives, or purports to restrict or waive, a requirement of this Act or a
+person’s rights or obligations under this Act.  2018, c. 41, s. 4.
+Form of guarantee agreement
+8B A guarantee agreement entered into on or after the day this Section
+comes into force must be in accordance with the regulations and must set out
+(a) the landlord’s legal name, telephone number and address, and
+any other contact information for giving notices or other documents;
+(b) the guarantor’s name, telephone number and address, and any
+other contact information for giving notices or other documents;
+(c) the tenant’s name;
+(d) the address of the residential premises and residential complex
+to which the guarantee agreement applies;10 residential tenancies R.S., c. 401
+SEPTEMBER 30, 2024(e) the duration of the guarantee agreement and a statement as to
+whether the guarantor’s obligations continue for one or more renewals of the
+lease in accordance with one of the following options:
+(i) where the lease is a fixed-term lease, the guarantor’s
+obligations end on either
+(A) the day of termination stated in the lease, or
+(B) an earlier date specified in the guarantee agree -
+ment,
+(ii) where the lease is a year-to-year, month -to-month or
+week-to-week lease, the guarantor’s obligations end on either
+(A) a date specified in the guarantee agreement, or
+(B) the date the tenancy is terminated;
+(f) a statement as to whether the guarantor’s obligations continue
+if a year-to-year lease is converted into a month-to-month lease;
+(g) the specific financial obligations of the tenant for which the
+guarantor has undertaken to be responsible;
+(h) the extent of the guarantor’s financial liability;
+(i) the period of notice required to be given by the landlord to the
+guarantor if the tenant fails to comply with an obligation for which the guar -
+antor has undertaken to be responsible, as set out in Section 8L;
+(j) a statement that if the landlord consents to a sublet, the landlord
+undertakes to promptly advise the guarantor for the purpose of Section 8K;
+(k) whether the guarantor may terminate the guarantee agreement
+and, if so, the period of notice to be given to the landlord;
+(l) a statement that the landlord and the guarantor undertake to
+give notice to each other of any change in the information required under
+clauses (a) and (b);
+(m) the manner of giving notices or other documents in relation to
+the guarantee agreement, which must be in accordance with Section 8D; and
+(n) any terms, conditions or information required by the regula -
+tions.  2018, c. 41, s. 4.
+Notice of change in information
+8C (1) Where there is a change in the information provided by the
+landlord or guarantor under clause 8B(a) or (b), the landlord or guarantor shall give
+notice of the change to the other person as soon as reasonably practicable.
+(2) When the landlord or guarantor gives a notice or document
+that is required to be given to the other person under the guarantee agreement, the
+landlord or guarantor shall use the other person’s most recent contact information.
+2018, c. 41, s. 4.R.S., c. 401 residential tenancies 11
+SEPTEMBER 30, 2024Service of notice and other documents
+8D (1) Service of all notices and documents relating to a guarantee
+agreement must be served by the guarantor on the landlord or the landlord on the
+guarantor by
+(a) personal service on the landlord or guarantor;
+(b) sending it to the landlord or guarantor by prepaid regis -
+tered mail, prepaid express post or prepaid courier service to the most
+recent contact address provided by the landlord or guarantor, as the
+case may be; or
+(c) sending it electronically if
+(i) it is provided in the same or substantially the
+same form as if written,
+(ii) it is capable of being retained by the landlord
+and guarantor so as to be usable for subsequent reference,
+(iii) the landlord or guarantor has provided, in the
+landlord’s or guarantor’s contact information, an electronic
+address to receive documents, and
+(iv) it is sent to the electronic address referred to in
+subclause (iii).
+(2) Where a document is sent by registered mail, express post or
+courier service under this Section, it is deemed to have been served on the third day
+after the day of mailing, and service may be proved by providing evidence that the
+notice or document was prepaid and properly addressed and sent.
+(3) Where a document is sent electronically pursuant to this Sec -
+tion, it is deemed to have been served on the day on which it was sent if the docu -
+ment is sent by four o’clock in the afternoon, or the next day that is not a Saturday
+or holiday if the document is sent after four o’clock in the afternoon or on a Satur -
+day or holiday.  2018, c. 41, s. 4.
+Limit of guarantor’s obligation
+8E A guarantor is only responsible for the financial obligations of a ten -
+ant that the tenant could be responsible for under this Act.  2018, c. 41, s. 4.
+Guarantor responsible for obligations of all tenants at location
+8F (1) Where there is more than one tenant, the guarantor is the guar -
+antor for all tenants and is responsible for the obligations specified in the guarantee
+agreement, regardless of which tenant has failed to comply with the obligations.
+(2) Where there is more than one guarantor, all guarantors must
+sign the same guarantee agreement and are jointly and severally responsible for the
+obligations specified in the guarantee agreement.  2018, c. 41, s. 4.
+Documents served by landlord on guarantor
+8G (1) With respect to a guarantee agreement entered into on or after
+the day this Section comes into force, the landlord shall give the guarantor, by a
+method of service provided for in Section 8D12 residential tenancies R.S., c. 401
+SEPTEMBER 30, 2024(a) a copy of the guarantee agreement signed by both the
+landlord and guarantor; and
+(b) a copy of the signed lease to which the guarantee
+agreement relates,
+not later than the tenth day after the guarantee agreement is signed.
+(2) The obligations of a guarantor are not enforceable until a copy
+of the signed guarantee agreement and signed lease are served on the guarantor by
+the landlord.  2018, c. 41, s. 4.
+Notice of rental increase
+8H (1) Where there is an increase in the rent payable and the guaran -
+tor is responsible for the new term of the lease to which the rental increase will
+apply, the landlord shall provide written notice of the rental increase to the guaran -
+tor by a method of service provided for in Section 8D.
+(2) The notice of rental increase must include
+(a) the landlord’s name and contact information;
+(b) the name of the tenants on the lease;
+(c) the address of the residential premises;
+(d) the current rent amount;
+(e) the new rent amount;
+(f) the effective date of the new rent amount; and
+(g) a notice that the guarantor will be responsible for the
+amount of the rental increase unless the guarantor terminates the
+guarantee agreement by providing written notice to the landlord at
+least three months before the effective date of the rental increase.
+(3) The landlord must provide the written notice of the rental
+increase to the guarantor within the same time as is required for notice to a tenant
+under subsection 11(2).
+(4) Where a landlord fails to provide written notice of the rental
+increase as required by this Section, the obligation of the guarantor for the amount
+of the rental increase is deemed to be terminated on the end date of the existing term
+of the lease.
+(5) A guarantor may terminate a guarantee agreement upon
+receipt of a notice of rental increase by providing written notice to the landlord at
+least three months before the effective date of the rental increase by a method of ser -
+vice provided for in Section 8D.
+(6) Where the guarantor is provided written notice of the rental
+increase within the time required and the guarantor has not terminated the guarantee
+agreement under subsection (5), the guarantor is responsible for the amount of the
+rental increase.  2018, c. 41, s. 4.R.S., c. 401 residential tenancies 13
+SEPTEMBER 30, 2024Changes to landlord rules
+8I (1) Where there are any changes to the landlord’s rules or new
+rules as established in accordance with Section 9A, the landlord shall provide a
+copy of the changed or new rules to the guarantor by a method of service provided
+for under Section 8D at least four months prior to the changed or new rules having
+effect.
+(2) Where there are any material changes to the lease that affect
+the financial obligations of the guarantor, the landlord shall provide a copy of the
+amended lease not later than the tenth day after the date on which the amended lease
+is signed by a method of service provided for under Section 8D.
+(3) Where the landlord does not obtain the written consent of the
+guarantor with respect to any material changes referred to in subsection (2), the
+guarantor is not responsible for any increased obligations resulting from those mate -
+rial changes.  2018, c. 41, s. 4.
+Termination of guarantee agreement on assignment of lease
+8J (1) Where a lease is assigned, the guarantee agreement is termi -
+nated on the date the assignment takes effect.
+(2) Where a guarantee agreement is terminated pursuant to sub -
+section (1), the guarantor remains liable for all obligations up to the time the guar -
+antee agreement is terminated.  2018, c. 41, s. 4.
+Notice to guarantor of subletting
+8K (1) The landlord shall give notice to the guarantor not later than
+the seventh day after the landlord consents to a subletting.
+(2) Where the landlord consents to a subletting, the guarantor has
+no obligations under the guarantee agreement for the duration of that subletting
+unless the guarantor enters into a written guarantee agreement with the landlord that
+is specific to that sublet.  2018, c. 41, s. 4.
+Notice to guarantor on tenant’s failure to comply
+8L      (1) Where the tenant fails to comply with an obligation for which
+the guarantor has undertaken to be responsible, the landlord shall
+(a) in the case of an obligation to pay rent or any other fee
+or charge specified in the lease, give notice to the guarantor not later
+than the fifteenth day after the day on which the amount owed equals
+or exceeds the amount payable for two rental periods; or
+(b) in the case of any other obligation, give notice to the
+guarantor of the failure to comply as soon as reasonably practicable.
+(2) A notification under subsection (1) must be served on the
+guarantor by a method of service provided for in Section 8D.  2018, c. 41, s. 4.
+Termination of guarantee agreement
+8M (1) Except as provided otherwise by this Act or a guarantee
+agreement, a guarantor may not terminate the guarantee agreement.14 residential tenancies R.S., c. 401
+SEPTEMBER 30, 2024(2) Where there is a change of the tenants on a lease, the guaran -
+tor has no obligations under the guarantee agreement unless the guarantor enters
+into a new written guarantee agreement with the landlord that is specific to the
+amended lease.  2018, c. 41, s. 4.
+STATUTORY CONDITIONS
+Statutory conditions
+9 (1) Notwithstanding any lease, agreement, waiver, declaration or
+other statement to the contrary, where the relation of landlord and tenant exists in
+respect of residential premises by virtue of this Act or otherwise, there is and is
+deemed to be an agreement between the landlord and tenant that the following con -
+ditions will apply as between the landlord and tenant as statutory conditions govern -
+ing the residential premises:
+Statutory Conditions
+1. Condition of Premises - The landlord shall keep the premises
+in a good state of repair and fit for habitation during the tenancy and shall
+comply with any statutory enactment or law respecting standards of health,
+safety or housing.
+2. Services - Where the landlord provides a service or facility to
+the tenant that is reasonably related to the tenant’s continued use and enjoy -
+ment of the premises such as, but not so as to restrict the generality of the
+foregoing, heat, water, electric power, gas, appliances, garbage collection,
+sewers or elevators, the landlord shall not discontinue providing that service
+to the tenant without proper notice of a rental increase or without permission
+from the Director.
+3. Good Behaviour - A landlord or tenant shall conduct himself
+in such a manner as not to interfere with the possession or occupancy of the
+tenant or of the landlord and the other tenants, respectively.
+4. Obligation of the Tenant - The tenant is responsible for the
+ordinary cleanliness of the interior of the premises and for the repair of dam -
+age caused by wilful or negligent act of the tenant or of any person whom the
+tenant permits on the premises.
+5. repealed 2018, c. 41, s. 5 .
+6. Abandonment and Termination - If the tenant abandons the
+premises or terminates the tenancy otherwise than in the manner permitted,
+the landlord shall mitigate any damages that may be caused by the abandon -
+ment or termination to the extent that a party to a contract is required by law
+to mitigate damages.
+7. Notice of Entry - A landlord may enter the premises if the
+landlord has given the tenant notice of entry that
+(a) is in writing;
+(b) states the purpose of entry, which must be reasona -
+ble;
+(c) states the date and time of the entry, which must be
+between eight o’clock in the morning and eight o’clock in the
+evening, unless the tenant agrees to a different time;
+(d) is given by the landlord to the tenant at least twenty-
+four hours and not more than thirty days before the day of entry; andR.S., c. 401 residential tenancies 15
+SEPTEMBER 30, 2024(e) is delivered
+(i) using a method set out in subsection 15(2) of
+the Act, or
+(ii) by text sent to a telephone number provided
+by the tenant for the landlord to provide notice of entry.
+7A. Entry without Written Notice - A landlord shall not enter the
+premises without written notice unless
+(a) there is an emergency and the entry is necessary to
+protect life or property;
+(b) the tenant gives consent at the time of entry;
+(c) the tenant gives consent not more than thirty days
+before the entry; or
+(d) the tenant reasonably appears to have abandoned the
+residential premises. 
+8. Entry Doors - Except by mutual consent, the landlord or the
+tenant shall not during occupancy by the tenant under the tenancy alter or
+cause to be altered the lock or locking system on any door that gives entry to
+the premises.
+9. Late Payment Penalty - Where the lease contains provision
+for a monetary penalty for late payment of rent, the monetary penalty shall
+not exceed one per cent per month of the monthly rent.
+(2) In addition to the statutory conditions set out in subsection (1),
+there is and is deemed to be an agreement between the landlord and tenant that the
+following statutory conditions apply as between them in respect of the lease of a
+manufactured home space or a manufactured home in a land-lease community:
+Statutory Conditions Respecting Lease of a
+Manufactured Home Space or a Manufactured
+Home in a Land-lease community
+1. The landlord shall not restrict in any way the right of a tenant
+to sell, lease or otherwise part with the possession of a manufactured home
+by the tenant.
+1A. Where a tenant wishes to sell or otherwise part with posses -
+sion of a manufactured home, the tenant may apply in writing to the landlord
+on behalf of the person who wishes to acquire title to or possession of the
+manufactured home to become a tenant of the manufactured home space
+upon which the manufactured home is located.
+1B. The consent of the landlord required by Statutory Condition
+1A. will not arbitrarily or unreasonably be withheld.
+1C. The landlord shall not charge a commission or fee for grant -
+ing consent required by Statutory Condition 1A., other than the landlord’s
+reasonable expenses actually incurred in respect to the grant of consent.
+1D. The landlord shall in writing, within ten days of receipt of the
+request made pursuant to Statutory Condition 1A., consent to the request or
+set out the reasons why consent is being withheld, failing which the landlord
+is deemed to have given consent to the request.
+2. The landlord shall not receive any compensation for acting as
+the agent of the tenant in any negotiations to sell, lease or otherwise part with
+possession of a manufactured home space or a manufactured home situate in
+a land-lease community, unless provided for in a separate written agency
+agreement that is entered into by the tenant16 residential tenancies R.S., c. 401
+SEPTEMBER 30, 2024(a) after the tenant enters into the tenancy agreement;
+and
+(b) at the time that the tenant decides he wishes to offer
+his manufactured home for sale or lease or otherwise part with the
+possession of his manufactured home or manufactured home space.
+3. (1) Except as provided in this condition, the landlord
+shall not restrict in any way the right of the tenant to purchase goods or ser -
+vices from the person of the tenant’s choice.
+(2) The landlord may set reasonable standards for manu -
+factured home equipment.
+(3) Where a person who does not live in the land-lease
+community and who is offering goods or services for sale
+(a) unduly disturbs the peace and quiet of the
+land-lease community;
+(b) fails to observe reasonable rules of conduct
+that have been established by the landlord; or
+(c) violates the traffic rules of the land-lease
+community,
+despite a request by the landlord to discontinue the conduct, the landlord may
+restrict or prohibit the entry of that person into the land-lease community.
+4. The landlord is responsible for compliance with municipal
+by-laws in respect of the common areas of the land-lease community and the
+services provided by the landlord to the tenants in the land-lease community.
+5. The tenant is responsible for compliance with municipal by-
+laws in respect of the tenant’s manufactured home and the manufactured
+home space on which it is located to the extent that the landlord is not respon -
+sible.
+R.S., c. 401, s. 9; 1992, c. 31, s. 4; 1993, c. 40, s. 6; 1997, c. 7, s. 3; 2010, c. 72, ss. 4, 22; 2011, c. 70,
+s. 1; 2018, c. 41, s. 5; 2021, c. 36, s. 2.
+Landlord’s rules
+9A (1) A copy of reasonable rules established by a landlord that
+apply to the residential premises shall be given to a tenant prior to executing a lease.
+(2) Rules may be changed or repealed upon four months notice to
+the tenant prior to the anniversary date in any year.
+(3) A rule is reasonable if
+(a) it is intended to
+(i) promote a fair distribution of services and facil -
+ities to the occupants of the residential premises,
+(ii) promote the safety, comfort or welfare of per -
+sons working or residing in the residential premises, or
+(iii) protect the landlord’s property from abuse;
+(b) it is reasonably related to the purpose for which it is
+intended;
+(c) it applies to all tenants in a fair manner; andR.S., c. 401 residential tenancies 17
+SEPTEMBER 30, 2024(d) it is clearly expressed so as to inform the tenant of
+what the tenant must or must not do to comply with the rule.  1993,
+c. 40, s. 7.
+Assignment and subletting
+9B (1) A tenant may assign, sublet or otherwise part with possession
+of the residential premises, subject to the consent of a landlord.
+(2) A landlord may not arbitrarily or unreasonably withhold con -
+sent or charge for consent sought under subsection (1) unless the landlord has actu -
+ally incurred expense in respect of the grant of consent.
+(3) Where a tenant has assigned residential premises to another
+individual,
+(a) the lease continues to apply on the same terms and
+conditions to the new tenant;
+(b) the new tenant is liable to the landlord for any breach
+of the original tenant’s obligations under the lease or the Act if the
+breach relates to the period after the assignment, whether or not the
+breach began before the assignment;
+(c) the new tenant is entitled to enforce against the land -
+lord any obligation of the landlord under the lease or the Act if the
+obligation relates to the period after the assignment, whether or not
+the obligation began before the assignment;
+(d) the former tenant is liable to the landlord for any
+breach of the tenant’s obligations under the lease or the Act if the
+breach relates to the period before the assignment; and
+(e) the former tenant is entitled to enforce against the land -
+lord any of the landlord’s obligations under the lease or the Act if the
+obligation relates to the period before the assignment.
+(4) Where a tenant sublets residential premises to another individ -
+ual,
+(a) the tenant gives the right to occupy the premises to
+another individual for a period of time ending on a specified date;
+(b) the tenant remains entitled to the rights of a tenant and
+is also liable to the landlord for any breaches under the lease or the
+Act during the sublet;
+(c) the subtenant is entitled to the rights of a tenant and is
+liable to the tenant for any breaches of the subtenant’s obligations
+under the sublet agreement, the lease or the Act during the sublet; and
+(d) the subtenant shall vacate the residential premises at
+the end of the term of the sublet.
+(5) A sublet agreement must specify the date on which the ten -
+ancy under the sublet agreement ends.
+(6) Where a sublet agreement is entered into on or after the com -
+ing into force of this subsection, the tenant who sublets the residential premises18 residential tenancies R.S., c. 401
+SEPTEMBER 30, 2024shall not charge the subtenant a rent amount higher than the rent amount being law -
+fully charged by the landlord to the tenant.  2018, c. 41, s. 6; 2024, c. 12, s. 9.
+NOTICE TO QUIT
+Notice to quit
+10 (1) Notwithstanding any agreement between the landlord and ten -
+ant respecting a period of notice, notice to quit residential premises shall be given
+(a) where the residential premises are let from year to
+year, by the tenant at least three months before the expiration of any
+such year;
+(b) where the residential premises are let from month to
+month,
+(i) repealed 2010, c. 72, s. 5 .
+(ii) by the tenant, at least one month,
+before the expiration of any such month;
+(c) where the residential premises are let from week to
+week,
+(i) repealed 2010, c. 72, s. 5 .
+(ii) by the tenant, at least one week,
+before the expiration of any such week.
+(2) For the purposes of subsection (1), where the residential
+premises are let for periods that are greater than a week and less than a month, the
+residential premises are deemed to be let from month to month.
+(3) Notwithstanding any agreement between the landlord and ten -
+ant respecting a period of notice and notwithstanding the periods of notice in sub -
+section (1), where a tenant rents a manufactured home space from a landlord and the
+tenant owns the manufactured home or rents the manufactured home from a person
+other than the landlord, notice to quit the manufactured home space shall be given
+(a) repealed 2010, c. 72, s. 5 .
+(b) by the tenant, at least one month,
+before the termination of the tenancy.
+(3A) A landlord shall not give to the tenant a notice to quit residen -
+tial premises except in accordance with this Section.
+(4) A notice to quit residential premises shall be in writing and
+shall contain the signature of the person giving the notice or his agent, a description
+of the residential premises and the day on which the tenancy terminates.
+(5)  A notice to quit must be in the form prescribed by regulation.
+(6) Where a fixed-term lease exists or where a year to year or a
+month to month tenancy exists or is deemed to exist and the rent payable for the res -
+idential premises is not paid by the tenant on or before the fifteenth day after theR.S., c. 401 residential tenancies 19
+SEPTEMBER 30, 2024rent is due, on or after the sixteenth day the rent is due the landlord may give to the
+tenant notice to quit the residential premises effective not earlier than the fifteenth
+day after the date the notice to quit is given to the tenant.
+(6A) Not later than fifteen days after receiving a notice to quit
+under subsection (6), the tenant may
+(a) pay to the landlord the rent that is in arrears, and upon
+the payment of that rent, the notice to quit is void and of no effect; or
+(b) apply to the Director under Section 13 for an order set -
+ting aside the notice to quit.
+(6B) Notwithstanding Section 13, the one year period referred to in
+that Section does not apply to an application under subsection (6A).
+(6BA) Where the tenant makes an application to the Director under
+subsection 10(6A) and the Director decides not to set aside the notice to quit after
+holding a hearing in accordance with Section 17, the Director may order one or
+more of the following:
+(a) that the tenant vacate the residential premises;
+(b) that the tenant pay to the landlord all rent owing for the
+month in which the notice to quit was given and pay any rent  in
+arrears for months previous to that month;
+(c) that the landlord retain the tenant’s security deposit and
+interest to be applied against any rent found to be owing for the
+month in which notice to quit was given and for any rent found to be
+owing and in arrears for months previous to that month.
+(6C) Where a tenant who has received a notice to quit under sub -
+section (6) does not pay the rent that is in arrears or make an application to the
+Director in accordance with subsection (6A), the tenant
+(a) is conclusively deemed to have accepted that the ten -
+ancy is terminated on the effective date of the notice; and
+(b) must vacate the residential premises by that date.
+(6D) Where a notice to quit has been given by the landlord under
+subsection (6) and
+(a) the notice to quit has not been voided under clause
+(6A)(a) by the tenant paying to the landlord the rent that is in arrears
+not later than fifteen days after receiving the notice to quit;
+(b) the tenant has not disputed the notice by making an
+application to the Director under clause (6A)(b); and
+(c) the fifteen day time period for making the application
+under subsection (6A) has expired,
+the landlord may apply to the Director under Section 13 for any one or more of the
+following:
+(d) an order to vacate the residential premises;20 residential tenancies R.S., c. 401
+SEPTEMBER 30, 2024(e) an order requiring the tenant to pay to the landlord any
+rent owing for the month in which the notice to quit is given to the
+tenant and any rent in arrears for months previous to that month;
+(f) an order permitting the landlord to retain the tenant’s
+security deposit and interest to be applied against any rent found to be
+owing for the month in which notice to quit is given to the tenant and
+against any rent in arrears for months previous to that month.
+(6E) Notwithstanding Sections 16 and 17, in the circumstances
+described in subsection (6D), the Director may, without investigating and endeav -
+ouring to mediate a settlement and without holding a hearing, order any one or more
+of the following:
+(a) that the tenant vacate the premises;
+(b) that the tenant pay to the landlord all rent owing for the
+month in which the notice to quit was given and pay any rent in
+arrears for months previous to that month;
+(c) that the landlord retain the tenant’s security deposit and
+interest to be applied against any rent found to be owing for the
+month in which notice to quit was given and for any rent found to be
+owing and in arrears for months previous to that month.
+(7) Where a week to week tenancy exists and the rent payable for
+the residential premises is not paid by the tenant on or before the seventh day after
+the rent is due, on or after the eighth day the rent is due the landlord may give to the
+tenant notice to quit the residential premises effective not earlier than the seventh
+day after the date the notice to quit is given to the tenant.
+(7A) Where a tenant poses a risk to the safety or security of the
+landlord or other tenants in the same building on account of the contravention or
+breach by that tenant of any enactment, notice of termination may be given to the
+tenant effective not earlier than five days, or such shorter period as the Director may
+direct, after the notice is given.
+(7B) A landlord may give to a tenant notice to quit the residential
+premises where
+(a) the tenant has breached statutory condition 3 or 4 of
+subsection 9(1) or subsection 9B(1);
+(b) the tenant in a land-lease community has breached stat -
+utory condition 3 or 4 of subsection 9(1), statutory condition 5 of sub -
+section 9(2) or subsection 9B(1).
+(7C) A landlord shall give to a tenant in a land-lease community
+notice to quit the residential premises under subsection (7B) not earlier than thirty
+days from the date the notice to quit is given, and a landlord shall give to any other
+tenant a notice to quit under subsection (7B) not earlier than fifteen days from the
+date the notice to quit is given.
+(7D) A tenant who has received a notice to quit under subsection (7),
+(7A) or (7B) or clause (8)(a), (b) or (c) may apply to the Director under Section 13
+for an order setting aside the notice to quit.R.S., c. 401 residential tenancies 21
+SEPTEMBER 30, 2024(8) A landlord may give to the tenant notice to quit the residential
+premises where
+(a) the residential premises are leased to a student by an
+institution of learning and the tenant ceases to be a student;
+(b) the tenant was an employee of an employer who pro -
+vided the tenant with residential premises during his employment and
+the employment has terminated;
+(c) the residential premises have been made uninhabitable
+by fire, flood or other occurrence;
+(d) repealed 1994, c. 32, s. 1 .
+(e) the Director is satisfied that the tenant is in default of
+any of his obligations under this Act, the regulations or the lease;
+(f) the Director is satisfied that it is appropriate to make an
+order under Section 17A directing the landlord to be given possession
+at a time specified in the order, but not more than twelve months from
+the date of the order, where
+(i) the landlord in good faith requires possession of
+the residential premises for the purpose of residence by him -
+self or a member of his family, or
+(ii) repealed 2021, c. 36, s. 3 .
+(iii) the Director deems it appropriate in the circum -
+stances.
+(8A) repealed 2010, c. 72, s. 5 .
+(9) Where the interest of a tenant in residential premises arising
+under a tenancy agreement is
+(a) foreclosed as a result of a proceeding
+(i) respecting a mortgage which has priority over
+the interest of the tenant, or
+(ii) in which the landlord’s interest under an agree -
+ment of sale is foreclosed; or
+(b) extinguished as a result of a sale under the Sale of Land
+under Execution Act  respecting a judgment which has priority over
+the interest of the tenant,
+the tenant may, notwithstanding the foreclosure or the sale, remain in possession of
+the premises under the same terms and conditions as if the foreclosure or the sale
+had not taken place, except that the right to remain in possession terminates on the
+earlier of
+(c) the expiration of three months after the person who,
+but for this subsection, would be entitled to possession of the prem -
+ises, gives to the tenant a notice to quit the premises; or
+(d) the date on which the tenancy agreement terminates in
+accordance with its terms or is lawfully terminated.  R.S., c. 401, s. 10;
+1992, c. 31, s. 5; 1993, c. 40, s. 8; 1994, c. 32, s. 1; 1997, c. 7, s. 4; 2010, c. 72,
+ss. 5, 22; 2011, c. 70, s. 2; 2018, c. 41, s. 7; 2021, c. 36, s. 3.22 residential tenancies R.S., c. 401
+SEPTEMBER 30, 2024Renewal term and daily rents
+10A (1) A lease, except for a fixed-term lease, continues for the same
+type of term if no notice is given pursuant to subsection (1) of Section 10 and is
+deemed to have been automatically renewed.
+(2) A fixed-term lease ends on the day specified in the lease and,
+if a tenant remains in possession with the consent of an owner, the lease is deemed
+to have renewed itself on a month-to-month basis.
+(3) A tenant may change a year-to-year lease to a month-to-month
+lease
+(a) by giving written notice to the landlord at least three
+months prior to the anniversary date of the lease; or
+(b) where the tenant receives a notice of rent increase from
+the landlord, by giving written notice to the landlord at least three
+months prior to the effective date of the rent increase.
+(4) A notice given under subsection (3) must
+(a) include the date, the tenant’s name, the address of the
+residential premises and the date the change becomes effective; and
+(b) be given using a method of service provided for by
+Section 15.
+(4A) For the purpose of clause (4)(a), the date the change becomes
+effective is
+(a) the anniversary date if the notice is given three months
+prior to the anniversary date; and
+(b) the effective date of the rent increase if the notice is
+given three months prior to the effective date of a rent increase.
+(4B) Where a tenant has exercised the tenant’s right under subsec -
+tion (3) and changed to a month-to-month lease, the landlord shall not charge a rent
+amount that is more than the rent amount that would be payable by the tenant for the
+year-to-year lease.
+(5) No landlord shall charge daily rents to avoid the provisions of
+this Act unless the residential premises or a part thereof are registered under the
+Tourist Accommodations Registration Act , but only while the premises are being
+used as a short-term rental as defined in that Act.  1993, c. 40, s. 9; 2018, c. 41, s. 8; 2021,
+c. 36, ss. 4-6.
+Early termination for sale of residential complex
+10AA (1) In this Section, “residential complex” means a building in
+which one or more residential premises are located.
+(2) A landlord of a residential complex that contains no more than
+four residential premises may end a tenancy in respect of residential premises in the
+residential complex if
+(a) the landlord enters into a purchase and sale agreement
+in good faith to sell the residential complex;R.S., c. 401 residential tenancies 23
+SEPTEMBER 30, 2024(b) all the conditions, unrelated to the title, on which the
+sale depends have been satisfied;
+(c) the purchaser is an individual; and
+(d) the purchaser
+(i) asks the landlord, in writing, to give notice to
+end the tenancy on the grounds that the purchaser, or a family
+member of the purchaser, intends in good faith to occupy the
+residential premises, and
+(ii) provides to the landlord an affidavit sworn by
+the purchaser that the purchaser, or a family member of the
+purchaser, intends in good faith to occupy the residential
+premises.
+(3) A landlord ending a tenancy pursuant to subsection (2) must
+give to the tenant
+(a) a copy of the sworn affidavit of the purchaser; and
+(b) a notice, in the form required by the Director, to end
+the tenancy effective on a date that must be
+(i) not earlier than two months after the date the
+tenant receives the notice,
+(ii) the day before the day in the month, or other
+period on which the tenancy is based, that rent is payable
+under the tenancy agreement, and
+(iii) where the tenancy is a fixed-term lease, not ear -
+lier than the date specified as the end of the tenancy.
+(4) A tenant who receives a notice referred to in clause (3)(b)
+may, at any time before the date specified in the notice, terminate the tenancy, effec -
+tive on a specified date earlier than the date set out in the notice referred to in clause
+(3)(b) but at least ten days after the tenant gives notice to the landlord to terminate
+the tenancy.  2018, c. 41, s. 9.
+Early termination for demolition, repairs or renovations
+10AB (1) Where the landlord and tenant mutually agree to terminate a
+tenancy for the purpose of demolition or making repairs or renovations to the resi -
+dential premises, the agreement must be in writing and in the form required by the
+Director.
+(2) Where the landlord and tenant do not mutually agree to termi -
+nate a tenancy under subsection (1), the landlord may make an application to the
+Director for an order under Section 17A directing the landlord to be given vacant
+possession of the residential premises on the date specified in the order, but not less
+than three months and not greater than twelve months from the date of the order.
+(3) In an application under subsection (2), the landlord shall sat -
+isfy the Director that the landlord has all the necessary permits and approvals
+required by law and that the landlord in good faith requires possession of the resi -
+dential premises for the purpose of24 residential tenancies R.S., c. 401
+SEPTEMBER 30, 2024(a) demolition of the residential premises; or
+(b) making repairs or renovations so extensive as to
+require a building permit and vacant possession of the residential
+premises.
+(4) When making a decision on an application under subsection
+(2), the Director shall consider any vacant possession guidelines prescribed by regu -
+lation.
+(5) A tenant whose tenancy is terminated by mutual agreement or
+by an order of the Director under this Section may, at any time before the date spec -
+ified in the agreement or order, terminate the tenancy effective on a date earlier than
+the date specified in the agreement or order but at least ten days after the tenant
+gives notice to the landlord to terminate the tenancy.
+(6) For greater certainty, a landlord shall not terminate a tenancy
+for the purpose of demolition or making repairs or renovations to the residential
+premises except by mutual agreement or by an order of the Director under this Sec -
+tion.  2021, c. 36, s. 7.
+Compensation
+10AC (1) In this Section, “residential complex” means a building in
+which one or more residential premises are located.
+(2) A tenant whose tenancy is terminated by mutual agreement or
+by order of the Director under Section 10AB is entitled to compensation equal to the
+rent payable for
+(a) the last three months, if the residential complex con -
+tains more than four residential premises; or
+(b) the last month, if the residential complex contains four
+or fewer residential premises.
+(3) Where a tenant continues to reside in the residential premises
+until the date specified in the agreement or order, the tenant is not required to pay
+rent to the landlord for the applicable compensation period set out in subsection (2).
+(4) Where a tenant exercises the right to terminate a tenancy early
+under subsection 10AB(5), the landlord shall pay the tenant, on or before the effec -
+tive date of the termination, any remaining compensation owing pursuant to subsec -
+tion (2).
+(5) Where the landlord provides other residential premises that
+are acceptable to the tenant, and the tenant agrees to enter into a lease with the same
+benefits and obligations as the current lease for those other residential premises, the
+tenant is not entitled to the compensation set out in subsection (2).  2021, c. 36, s. 7.
+Order by Director
+10AD  Where a landlord fails to comply with the requirements of Section
+10AB or 10AC, on application by the tenant under Section 13, the Director may
+make an order requiring the landlord to pay to the tenant the compensation required
+under subsection 10AC(2) and any one or more of the following:R.S., c. 401 residential tenancies 25
+SEPTEMBER 30, 2024(a) reasonable moving expenses incurred by the tenant, up
+to such maximum amount as may be prescribed by regulation;
+(b) reasonable additional expenses incurred by the tenant,
+up to a maximum amount that is equal to one month’s rent payable
+under the lease; and
+(c) all or a portion of the amount of increased rent that the
+tenant was obliged to pay under the tenant’s new lease for up to
+twelve months.  2021, c. 36, s. 7.
+Early termination of year-to-year lease
+10AE  Notwithstanding Section 10, where a tenant in a year-to-year tenancy
+receives notice of a rent increase under Section 11, the tenant may terminate the ten -
+ancy by giving the landlord notice to quit, in the form prescribed by regulation, at
+least three months before the effective date of the rent increase.  2021, c. 36, s. 7.
+Early termination upon income reduction
+10B (1) Notwithstanding Section 10, where the income of a tenant, or
+one of a group of the tenants in the same residential premises, is so reduced because
+of a significant deterioration of a tenant’s health that it is not reasonably sufficient to
+pay the rent in addition to the tenant’s other reasonable expenses, or if there is more
+than one tenant, the tenant’s portion of the rent and other reasonable expenses, the
+tenant may terminate a year-to-year or fixed-term tenancy by giving the landlord
+(a) one month’s notice to quit, in the form prescribed by
+regulation;
+(b) a certificate of a medical practitioner, in the form pre -
+scribed by regulation, evidencing the significant deterioration of
+health; and
+(c) proof of service, in the form prescribed in the regula -
+tions, of all the tenants in the same residential premises with a copy
+of the notice to quit.
+(2) Where a tenancy is terminated pursuant to subsection (1), the
+tenancy is terminated for all the tenants in the same residential premises, but the
+other tenants may enter a new landlord and tenant relationship with the landlord
+with the consent of the landlord, which consent must not be arbitrarily or unreason -
+ably withheld.
+(3) Where other tenants reside in the same residential premises,
+the tenant seeking to terminate a tenancy pursuant to this Section shall serve all the
+tenants in the same residential premises with a copy of the notice to quit at least one
+month before the termination of tenancy.  1993, c. 40, s. 9; 2010, c. 72, s. 6.
+Early termination for health reasons
+10C (1) Notwithstanding Section 10, where a tenant or a family mem -
+ber residing in the same residential premises in a year-to-year or fixed-term tenancy
+has suffered a significant deterioration in health that, in the opinion of a medical
+practitioner, results in the inability of the tenant to continue the lease or where the
+residential premises are rendered inaccessible to the tenant, the tenant may termi -
+nate the tenancy by giving the owner26 residential tenancies R.S., c. 401
+SEPTEMBER 30, 2024(a) one month’s notice to quit, in the form prescribed in
+the regulations;
+(b) a certificate of a qualified medical practitioner, in the
+form prescribed by regulation, evidencing the significant deteriora -
+tion of health; and
+(c) proof of service, in the form prescribed by regulation,
+of all the tenants in the same residential premises with a copy of the
+notice to quit.
+(2) Where a tenancy is terminated pursuant to subsection (1), the
+tenancy is terminated for all the tenants in the same residential premises, but the
+other tenants may enter a new landlord and tenant relationship with the landlord
+with the consent of the landlord, which consent must not be arbitrarily or unreason -
+ably withheld.
+(3) Where other tenants reside in the same residential premises,
+the tenant seeking to terminate a tenancy pursuant to this Section shall serve all the
+tenants in the same residential premises with a copy of the notice to quit at least one
+month before the termination of tenancy.  1993, c. 40, s. 9; 2002, c. 30, s. 17; 2010, c. 72, s. 7.
+Early termination upon acceptance into home
+10D (1) Notwithstanding Section 10, where a tenant in a year-to-year
+or fixed-term tenancy has been accepted into a nursing home or a home for special
+care on a permanent basis, the tenant may terminate the tenancy by giving the land -
+lord
+(a) one month’s notice to quit in the form prescribed by
+regulation;
+(b) such proof of acceptance into a nursing home or home
+for special care as is prescribed by regulation; and
+(c) proof of service, in the form prescribed by regulation,
+of all the tenants in the same residential premises with a copy of the
+notice to quit.
+(2) Where a tenancy is terminated pursuant to subsection (1), the
+tenancy is terminated for all the tenants in the same residential premises, but the
+other tenants may enter a new landlord and tenant relationship with the landlord
+with the consent of the landlord, which consent must not be arbitrarily or unreason -
+ably withheld.
+(3) Where other tenants reside in the same residential premises,
+the tenant seeking to terminate a tenancy pursuant to this Section shall serve all the
+tenants in the same residential premises with a copy of the notice to quit at least one
+month before the termination of tenancy.  1993, c. 40, s. 9; 2010, c. 72, s. 8.
+Notice by personal representative
+10E Notwithstanding Section 10, where a tenant in a year-to-year or
+fixed-term tenancy dies and there are no other tenants in the residential premises,
+the tenancy is terminated on the last day of the rental period immediately after the
+rental period in which the tenant dies.  1993, c. 40, s. 9; 2010, c. 72, s. 9; 2018, c. 41, s. 10.R.S., c. 401 residential tenancies 27
+SEPTEMBER 30, 2024Early termination for domestic violence reasons
+10F (1) Notwithstanding Section 10, where a tenant in a year-to-year
+or fixed-term tenancy is a victim of domestic violence, the tenant may terminate the
+tenancy by giving the landlord
+(a) one month’s notice to quit in the form prescribed by
+regulation; and
+(b) a certificate issued by the Director of Victim Services
+confirming that one of the grounds to issue a certificate under subsec -
+tion 10H(2) has been established,
+no later than 60 days after the date the certificate is issued.
+(2) The landlord shall ensure that information in a certificate
+received from the tenant pursuant to subsection (1) is kept confidential.
+(3) The landlord may apply to the Director of Residential Tenan -
+cies under Section 13 for an order setting aside the notice to quit only on the ground
+that the notice to quit and the certificate were not properly given to the landlord as
+required by subsection (1).
+(4) Where a tenancy is terminated pursuant to subsection (1), the
+tenancy is terminated for all the tenants in the same residential premises but, for
+greater certainty, the other tenants and the landlord may agree to enter a new land -
+lord and tenant relationship.  2012, c. 64, s. 2.
+CERTIFICATE CONFIRMING GROUNDS TO
+TERMINATE TENANCY DUE TO DOMESTIC VIOLENCE
+Delegation by Director of Victim Services
+10G The Director of Victim Services may authorize one or more employ -
+ees in the Department of Justice to exercise the powers and carry out the duties of
+the Director of Victim Services under Section 10H.  2012, c. 64, s. 3.
+Application for certificate
+10H (1) Where a tenant in a year-to-year or fixed-term tenancy is a
+victim of domestic violence, the tenant or a person on behalf of the tenant and with
+the tenant’s consent may apply to the Director of Victim Services, in the form and
+manner and including the information required by the Director of Victim Services,
+for a certificate confirming that one of the grounds to issue a certificate under sub -
+section (2) has been established.
+(2) The Director of Victim Services may issue a certificate to the
+tenant for the purpose of clause 10F(1)(b) if either of the following grounds is estab -
+lished:
+(a) an emergency protection order relating to the tenant has
+been issued under Section 11 of the Domestic Violence Intervention
+Act and has not been revoked under clause 12(1)(c) of that Act, and
+the tenant made the application for the certificate no later than 90 days
+after the date of the order; or
+(b) the Director of Victim Services is satisfied that all of
+the following requirements are met:28 residential tenancies R.S., c. 401
+SEPTEMBER 30, 2024(i) a domestic violence complaint has been filed
+with a police agency identifying the tenant as the victim,
+(ii) a peace bond or other order of a court has been
+issued that contains a condition that the person who is alleged
+to have committed the domestic violence have no contact with
+the tenant, and the peace bond or other court order is currently
+in force, and
+(iii) after having completed an assessment, the
+Director of Victim Services has reason to believe the tenant is
+a victim of domestic violence for the purpose of the peace
+bond or order referred to in subclause (ii).
+(3) For the purpose of this Section, the Director of Victim Services
+may request information from a police agency respecting a domestic violence com -
+plaint filed with the police agency, and, where requested, the police agency must
+provide the information.
+(4) In considering an application under this Section, the Director
+of Victim Services is not required to hear or consider representations from the per -
+son who is alleged to have committed the domestic violence.
+(5) Subject to subsection (6), the decision by the Director of Victim
+Services to issue or refuse to issue a certificate under this Section is final and not sub -
+ject to review or appeal.
+(6) A tenant who is refused a certificate under this Section may
+re-apply for a certificate under this Section if there is a change in circumstances.
+2012, c. 64, s. 3.
+Director of Victim Services not compellable
+10I The Director of Victim Services cannot be compelled in a court or
+other proceeding, including a proceeding before the Director of Residential Tenancies,
+to
+(a) give evidence about information obtained for the purpose of
+Section 10H; or
+(b) produce any document or thing obtained for the purpose of
+Section 10H.  2012, c. 64, s. 3.
+RENTAL INCREASE
+Restrictions increasing rent
+11 (1) A landlord shall not increase the rent to a tenant for the
+twelve-month period following the commencement of a week-to-week, month-to-
+month, year-to-year or fixed-term lease.
+(2) Where a landlord intends to increase the rent payable after the
+first twelve-month period, the landlord shall give the tenant a notice in writing stat -
+ing the amount and effective date of the increase in the case of
+(a) a year-to-year lease, four months prior to the effective
+date of the increase;R.S., c. 401 residential tenancies 29
+SEPTEMBER 30, 2024(b) a month-to-month lease, four months prior to the effec -
+tive date of the increase;
+(c) a week-to-week lease, eight weeks prior to the effec -
+tive date of the increase,
+(d) repealed 2021, c. 36, s. 8 .
+and in no case shall a landlord increase the rent to the tenant more than once in a
+twelve-month period and without proper notice prior to the effective date of the
+increase in each subsequent year.
+(2A) Notwithstanding subsection (2), where the landlord is a hous -
+ing association within the meaning of the Co-operative Associations Act , the land -
+lord may establish a common anniversary date for the increase of rent payable by
+tenants in accordance with the regulations and that date is thereafter the anniversary
+date respecting tenancies in the buildings owned by the association and the notice
+periods referred to in that subsection apply with respect to those tenancies.
+(2B) A landlord shall not give a notice of rent increase that pro -
+vides for a different rent increase amount if the lease is renewed for a different type
+of term.
+(3) In the case of a fixed-term lease, the lease shall indicate the
+amount and effective dates of any increases and in no case shall the rent be
+increased to a tenant more than once in a twelve-month period.
+(4) The deletion or withdrawal of a service is deemed to consti -
+tute a rental increase.
+(5) Where a landlord discontinues a service, privilege, accommo -
+dation or thing and such discontinuance results in a reduction of the tenant’s use and
+enjoyment of the residential premises, the value of such discontinued service, privi -
+lege, accommodation or thing is deemed to be a rent increase for the purpose of this
+Section.
+(6) Nothing in this Section applies to increases or decreases based
+solely on the income of a tenant pursuant to a public housing program.  1993, c. 40,
+s. 10; 2010, c. 72, s. 10; 2011, c. 70, s. 3; 2021, c. 36, s. 8.
+Rent increase in land-lease community
+11A (1) Where a landlord of a manufactured home space lease intends
+to increase the rent payable after the first twelve-month period, the landlord shall
+serve the tenant a notice in writing in the prescribed form and stating the amount
+and effective date of the increase seven months prior to the anniversary date, and in
+no case shall a landlord increase the rent to the tenant more than once in a twelve-
+month period or without proper written notice prior to the anniversary date in each
+subsequent year.
+(2) A landlord of a manufactured home space may determine a
+date to be the rent increase date for all manufactured home spaces owned or man -
+aged by the landlord.
+(3) and (4) repealed 2010, c. 72, s. 11 .
+1997, c. 7, s. 5; 2010, c. 72, ss. 11, 22; 2021, c. 36, s. 9.30 residential tenancies R.S., c. 401
+SEPTEMBER 30, 2024Annual allowable rent increase amount
+11B (1) A landlord of a land-lease community shall not impose a rent
+increase in the land-lease community by an amount that is greater than the annual
+allowable rent increase amount calculated in accordance with the regulations.
+(2) Notwithstanding subsection (1), a landlord of a land -lease
+community may apply to the Director for permission to increase rents in the
+land-lease community by an amount that is greater than the annual allowable rent
+increase amount calculated in accordance with the regulations.
+(3) In reviewing an application by a landlord of a land-lease com -
+munity for permission to increase rents by an amount greater than the annual allow -
+able rent increase amount referred to in subsection (1), the Director shall consider
+any guidelines prescribed by regulation.  2010, c. 72, s. 12.
+SECURITY DEPOSIT
+Security deposit
+12 (1) Where a landlord obtains from a tenant any sum of money or
+other value that is in addition to the rent payable in respect of the residential prem -
+ises the sum of money or value is deemed to be a security deposit.
+(2) No landlord shall demand, accept or receive from a tenant as a
+security deposit a sum of money or other value that is in excess of one half of the
+rent per month that is or would be required to be paid for the residential premises.
+(3) Subject to subsection 12A(2), a security deposit or the pro -
+ceeds thereof shall be held in trust by the landlord and deposited in a trust account in
+a chartered bank, trust company or credit union or invested in such securities as are
+authorized by regulation and may be applied to outstanding rent or to expenses
+incurred in respect of damage to residential premises that is the responsibility of the
+tenant.
+(4) The landlord shall credit interest to the tenant on the full
+amount or value of the security deposit at the rate per annum determined by the
+Governor in Council from time to time by regulation with respect to any period of
+time, whether before or after the coming into force of this subsection, while the
+security deposit is held by the landlord.
+(5) to (7) repealed 2021, c. 36, s. 10.
+(8) A landlord shall from time to time file such reports as may be
+required by the regulations of the amount of the security deposit or proceeds thereof
+which are held in trust.
+NOTE  - Subsections (9) to (12), enacted by Section 6 of Chapter 31 of the Acts of
+1992, have not been proclaimed .
+(13) An owner, partner or director of a company which owns or
+manages residential premises is personally liable for any breach of the Act or the
+regulations governing security deposits.R.S., c. 401 residential tenancies 31
+SEPTEMBER 30, 2024(14) Upon trusteeship, receivership, bankruptcy, sale, transfer,
+abandonment, foreclosure or sale of land under execution, the security deposits of
+the tenants held by the landlord are deemed to have been transferred to the receiver,
+trustee, mortgagee in possession or the new landlord and that receiver, trustee, mort -
+gagee or landlord is responsible for the tenant’s security deposits.
+(15) repealed 2021, c. 36, s. 10.
+(16) Notwithstanding Section 23, any landlord who violates this
+Section or Section 12A is guilty of an offence punishable on summary conviction
+and upon conviction is liable to a fine of not more than five thousand dollars.  R.S.,
+c. 401, s. 12; 1993, c. 40, s. 11; 1997, c. 7, s. 6; 2010, c. 72, s. 13; 2021, c. 36, s. 10.
+Return of security deposit
+12A (1) Subject to subsection (2), the security deposit, together with
+interest, must be returned to the tenant within ten days of the date of the termination
+of the lease.
+(2) Where the landlord seeks to apply all or part of the security
+deposit and interest to outstanding rent or to expense incurred with respect to any
+damage for which the tenant is responsible and the tenant does not consent in writ -
+ing, the landlord shall file a security deposit claim in the form prescribed by regula -
+tion with the Director within ten days of the date of the termination of the lease.
+(3) A claim for damages from a security deposit must not include
+any costs associated with ordinary wear and tear of the residential premises.
+(4) A claim filed with the Director pursuant to subsection (2)
+must also be sent to the tenant
+(a) by registered mail, express post or courier to the ten -
+ant’s new address, if known;
+(b) electronically, if an electronic address for the tenant is
+indicated on the lease; or
+(c) where the tenant’s new address is not known and no
+electronic address for the tenant is indicated on the lease, by regis -
+tered mail, express post or courier to the address for the next of kin, if
+indicated on the lease.
+(5) Where the landlord does not file a security deposit claim form
+pursuant to subsections (2) and (4) within ten days of the date of the termination of
+the lease, the landlord is not permitted to make an application to the Director to
+retain the security deposit and shall return the security deposit to the tenant in
+accordance with subsection 12A(1).  2021, c. 36, s. 11.
+Application for return of security deposit
+12B (1) A tenant may make an application to the Director, in the form
+prescribed by regulation, under Section 13 to request the return of a security
+deposit.
+(2) An application for the return of a security deposit under sub -
+section (1) is limited to the issue of the disposition of the security deposit but may
+include a request for the costs of the application fee paid to the Director.32 residential tenancies R.S., c. 401
+SEPTEMBER 30, 2024(3) Where the Director is unable to confirm that the landlord has
+filed a security deposit claim form under subsection 12A(2), the landlord has ten
+days from the date the tenant served the landlord with the tenant’s application under
+subsection (1) to provide to the Director proof that
+(a) the tenant consented in writing to the landlord retain -
+ing all or part of the security deposit; or
+(b) the landlord filed a security deposit claim form with
+the Director within ten days of the termination of the lease.
+(4) The landlord shall serve a copy of the documents provided to
+the Director under subsection (3) to the tenant by a method of service set out in sub -
+section 13(2A).
+(5) Where the Director is satisfied that the landlord filed a secu -
+rity deposit claim form with the Director as required by Section 12A or that the
+landlord has provided proof that the tenant consented in writing to the landlord
+retaining all or part of the security deposit, the Director may hold a hearing to deter -
+mine the disposition of the security deposit.
+(6) Where the landlord does not comply with subsection (3), or
+where the Director is not satisfied that the landlord filed the security deposit claim
+form with the Director as required or that the tenant consented in writing to the
+landlord retaining all or part of the security deposit, then, notwithstanding Sections
+16 and 17, the Director may, without investigating and endeavouring to mediate a
+settlement and without holding a hearing, make an order requiring the landlord to
+(a) return the security deposit, together with interest, to the
+tenant; and
+(b) pay to the tenant the costs of an application fee paid to
+the Director, but no other costs associated with the application.  2021,
+c. 36, s. 11.
+PROCEDURES
+Application to Director
+13 (1) Where a person applies to the Director
+(a) to determine a question arising under this Act;
+(b) alleging a breach of a lease or a contravention of this
+Act; or
+(c) to determine a question or matter arising under a guar -
+antee agreement,
+and, not more than one year after the termination of the lease, files with the Director
+an application in the form prescribed by regulation, together with the fee prescribed
+by regulation, the Director is the exclusive authority, at first instance, to investigate
+and endeavour to mediate a settlement.
+(1A) Notwithstanding the one-year period allowed under subsec -
+tion (1), where an application has been made under subsection (1), any party to the
+matter may file an application with the Director in respect of a different disputeR.S., c. 401 residential tenancies 33
+SEPTEMBER 30, 2024between the same parties, even if more than one year has passed since the termina -
+tion of the lease, unless
+(a) the applicant has withdrawn the application;
+(b) the matter has been settled by mediation; or
+(c) the hearing respecting the first application has been
+concluded.
+(2) Upon making an application pursuant to subsection (1) or
+(1A), the applicant shall, in accordance with subsection (2A) serve the other parties
+to the matter with a copy of the application
+(a) within such period as the Director may specify;
+(b) where the Director does not specify a period for ser -
+vice, within the period prescribed by regulation; or
+(c) where the Director does not specify a period for ser -
+vice and the regulations do not prescribe a period for service, within
+seven days.
+(2A) An application required to be served under subsection (2)
+must be served on the other parties to the application by
+(a) personal service;
+(b) where a party is a landlord, personal service on an
+agent of the landlord, the property manager or the superintendent of
+the residential premises;
+(c) where a party is a landlord, sending it to the landlord
+by prepaid registered mail, prepaid express post or prepaid courier
+service to an address
+(i) stated in the lease,
+(ii) where the landlord carries on business as a
+landlord, or
+(iii) where the rent is payable;
+(d) where a party is a tenant, sending it to the tenant by
+prepaid registered mail, prepaid express post or prepaid courier ser -
+vice to
+(i) the address of the residential premises if the
+tenant resides there, or
+(ii) a forwarding civic address provided by the ten -
+ant; or
+(e) sending it electronically if
+(i) it is provided in the same or substantially the
+same form as if written,
+(ii) it is capable of being retained by the other per -
+son so as to be usable for subsequent reference,
+(iii) the other party has provided in the lease, or in a
+guarantee agreement if the application is for a question or34 residential tenancies R.S., c. 401
+SEPTEMBER 30, 2024matter respecting a guarantee agreement, an electronic
+address to receive documents, and
+(iv) it is sent to the electronic address referred to in
+subclause (iii).
+(2B) Where a document is sent by registered mail, express post or
+courier service under this Section, it is deemed to have been served on the third day
+after the day of mailing, and service may be proved by providing evidence that the
+notice or document was prepaid and sent.
+(2C) Where a document is sent electronically under this Section, it
+is deemed to have been served on the day on which it was sent if the document is
+sent by four o’clock in the afternoon, or the next day that is not a Saturday or holi -
+day if the document is sent after four o’clock in the afternoon or on a Saturday or
+holiday.
+(3) Where the landlord or the tenant has made efforts to serve the
+other party that have been unsuccessful or the Director is not satisfied that a party
+has been served with an application, the Director may order an alternate acceptable
+method of service.
+(3A) Where an applicant fails to serve a copy of the application on
+any of the other parties within the period prescribed by subsection (2), the Director
+may dismiss the application without prejudice.
+(3B) For greater certainty, where an application has been dismissed
+under subsection (3A) and the applicant makes a new application in respect of the
+same subject matter as the dismissed application, the new application must be
+accompanied by the fee prescribed by regulation.
+(4) An applicant may withdraw an application at any time before
+an order or decision is made.  1997, c. 7, s. 7; 2016, c. 27, s. 2; 2018, c. 41, s. 11; 2021, c. 36,
+s. 12.
+Director’s decision
+14 (1) Where a question or matter referred to in subsection 13(1)
+arises from a guarantee agreement and in the Director’s opinion the question or mat -
+ter is complex, the Director may make a decision declining to determine it.
+(2) Where the Director makes a decision declining to determine a
+question or matter under subsection (1), the landlord or guarantor may apply to a
+court of competent jurisdiction for a determination of the matter, in which case that
+person retains all rights and remedies available at common law and in equity that
+are relevant to the guarantee agreement.
+(3) A decision of the Director under subsection (1) is final and not
+subject to appeal.  2018, c. 41, s. 12.
+Service of documents
+15 (1) Service of all documents, except documents relating to an
+application to the Director under Section 13 and documents relating to an appeal to
+the Small Claims Court, must be served by a tenant on a landlord byR.S., c. 401 residential tenancies 35
+SEPTEMBER 30, 2024(a) personal service on the landlord;
+(b) personal service on an agent of the landlord, the prop -
+erty manager or the superintendent;
+(c) leaving a copy in the landlord’s mailbox or mail slot at
+an address listed in the lease for the landlord, property manager or
+superintendent;
+(d) sending it to the landlord by prepaid registered mail,
+prepaid express post or prepaid courier service to an address
+(i) stated in the lease,
+(ii) where the landlord carries on business as a
+landlord, or
+(iii) where the rent is payable; or
+(e) sending it electronically if
+(i) it is provided in the same or substantially the
+same form as if written,
+(ii) it is capable of being retained by the landlord so
+as to be usable for subsequent reference,
+(iii) the landlord has provided, in the lease, an elec -
+tronic address to receive documents, and
+(iv) it is sent to the electronic address referred to in
+subclause (iii).
+ (2) Service of all documents, except documents relating to an
+application to the Director under Section 13 and documents relating to an appeal to
+the Small Claims Court, must be served by a landlord on a tenant by
+(a) personal service on the tenant;
+(b) personal service on an adult who lives with the tenant;
+(c) leaving a copy in the tenant’s mailbox or mail slot at
+the residential premises if the tenant currently resides there;
+(d) sending the documents to the tenant by prepaid regis -
+tered mail, prepaid express post or prepaid courier service to
+(i) the address of the residential premises if the
+tenant resides there, or
+(ii) a forwarding civic address provided by the ten -
+ant; or
+(e) sending it electronically if
+(i) it is provided in the same or substantially the
+same form as if written,
+(ii) it is capable of being retained by the tenant so
+as to be usable for subsequent reference,
+(iii) the tenant has provided, in the lease, an elec -
+tronic address to receive documents, and36 residential tenancies R.S., c. 401
+SEPTEMBER 30, 2024(iv) it is sent to the electronic address referred to in
+subclause (iii).
+(3) Where a document is sent by registered mail, express post or
+courier service under this Section, it is deemed to have been served on the third day
+after the day of mailing, and service may be proved by providing evidence that the
+notice or document was prepaid and sent.
+(4) Where a document is sent electronically under this Section, it
+is deemed to have been served on the day on which it was sent if the document is
+sent by four o’clock in the afternoon, or the next day that is not a Saturday or holi -
+day if the document is sent after four o’clock in the afternoon or on a Saturday or
+holiday.
+(5) A tenant may change an electronic address provided in a lease
+by serving written notice of the new electronic address to the landlord in accordance
+with subsection (1).
+(6) A landlord may change an electronic address provided in a
+lease by serving written notice of the new electronic address to at least one tenant
+listed on the lease in accordance with subsection (2).
+(7) A person serving a notice under subsection (5) or (6) must
+retain a copy of the notice for the duration of the tenancy and one year after the end
+of the tenancy.  2018, c. 41, s. 13; 2021, c. 36, s. 13.
+Duties and powers of Director
+16 (1) Upon receiving an application pursuant to Section 13, the
+Director shall investigate and endeavour to mediate a settlement of the matter.
+(2) Where a matter is settled by mediation, the Director shall
+make a written record of the settlement which is binding on the parties and not sub -
+ject to appeal.
+(2A) The written record of settlement prepared pursuant to subsec -
+tion (2) must be signed by both parties, except, where both parties provide oral con -
+sent to the Director, the Director shall document the oral consent in the written
+record of settlement and sign it.
+(3) Where a matter is settled by mediation and a party believes
+another party has failed to comply with the terms of the settlement, the party may
+apply to the Director for an order in accordance with subsection (4).
+(4) An application made under subsection (3) must
+(a) be completed in a form published by the Director;
+(b) include specific details on the non-compliance with the
+mediated settlement;
+(c) provide supporting documentation, if applicable;
+(d) include any other information requested by the Direc -
+tor to determine whether the other party to the mediated settlementR.S., c. 401 residential tenancies 37
+SEPTEMBER 30, 2024has failed to comply with one or more of the terms of the mediated
+settlement; and
+(e) be filed with the Director.
+(5) An applicant shall send a copy of the completed application
+form to the forwarding address or last known address of the other party or to an
+electronic address provided by the other party.
+(6) Where the Director receives an application under subsection
+(3), the Director may
+(a) require the party requesting the order to provide addi -
+tional information before determining whether to make an order
+requiring the other party to comply with the mediated settlement; or
+(b) make an order pursuant to Section 17A if the Director
+is satisfied that the other party has failed to comply with the terms of
+the settlement.  1997, c. 7, s. 7; 2018, c. 41, s 14; 2021, c. 36, s. 14.
+Order by Director
+17 (1) Where, after investigating the matter, the Director determines
+that the parties are unlikely to settle the matter by mediation, the Director shall hold
+a hearing.
+(1A) Where two or more applications are filed in respect of dis -
+putes between the same landlord and tenant, the Director may hear the applications
+together.
+(1B) The Director may hold a hearing in person, in writing or by
+telephone, video conference or other electronic means, or by any combination of the
+foregoing.
+(1C) Subject to the regulations, the Director may conduct a hearing
+in any manner the Director considers appropriate.
+(1D) Within fourteen days of concluding a hearing, the Director
+shall make an order in accordance with Section 17A.
+(2) The Director is not disqualified from holding a hearing or
+making an order respecting a matter by reason of having investigated or endeav -
+oured to mediate the matter.  1997, c. 7, s. 7; 2016, c. 27, s. 3.
+Contents of order
+17A An order made by the Director may
+(a) require a landlord or tenant to comply with a lease or an obli -
+gation pursuant to this Act;
+(b) require a landlord or tenant not to again breach a lease or an
+obligation pursuant to this Act;
+(c) require the landlord or tenant to make any repair or take any
+action to remedy a breach, and require the landlord or tenant to pay any rea -
+sonable expenses associated with the repair or action;38 residential tenancies R.S., c. 401
+SEPTEMBER 30, 2024(d) order compensation to be paid for any loss that has been suf -
+fered or will be suffered as a direct result of the breach;
+(e) terminate the tenancy on a date specified in the order and
+order the tenant to vacate the residential premises on that date;
+(f) determine the disposition of a security deposit;
+(g) direct that the tenant pay the rent in trust to the Director pend -
+ing the performance by the landlord of any act the landlord is required by
+law to perform, and directing the disbursement of the rent;
+(h) require the payment of money by the landlord or the tenant;
+(i) determine the appropriate level of a rent increase;
+(ia) require a guarantor to compensate a landlord for any loss suf -
+fered or expense incurred that the Director determines is payable by the
+guarantor under a guarantee agreement as a result of a tenant’s breach of the
+lease or an obligation under the Act if the Director is of the opinion that
+(i) the contents of the guarantee agreement meet the
+requirements of this Act, and
+(ii) the landlord has complied with the landlord’s obliga -
+tions under Sections 8A to 8M and the guarantee agreement, or any
+non-compliance by the landlord has not placed the guarantor at a sig -
+nificant disadvantage;
+(j) require a landlord or tenant to comply with a mediated settle -
+ment;
+(k) award to a successful party to an application the costs of an
+application fee paid to the Director, but no other costs associated with the
+application;
+(l) set aside a notice to quit given by a landlord under subsection
+10(6), (7), (7A) or (7B) or clause 10(8)(a), (b), or (c) or by a tenant under
+subsection 10F(1).  1997, c. 7, s. 7; 2010, c. 72, s. 16; 2012, c. 64, s. 4; 2018, c. 41, s. 15.
+Consequences of failure to appeal
+17B (1) Where no appeal is made pursuant to Section 17C, a decision
+or order made by the Director under this Act may be made an order of the Small
+Claims Court and may be enforced in the same manner as any order or judgment of
+that Court.
+(2) To make a decision or order made by the Director an order of
+the Small Claims Court, the Director shall endorse a copy of the decision or order
+certified by the Director to be a true copy as follows:
+Make the within an order of the Small Claims Court.
+Dated this . . . . . . day of . . . . . . . . . . . . . . . . , 20
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Director of Residential Tenancies
+(3) The Director may forward the decision or order so endorsed to
+a clerk of the Small Claims Court who shall, upon receipt thereof, enter the same as
+a record and it thereupon becomes and is an order of the Small Claims Court and
+enforceable as any order or judgment thereof.  2002, c. 10, s. 25.R.S., c. 401 residential tenancies 39
+SEPTEMBER 30, 2024Appeal to Small Claims Court
+17C (1) Except as otherwise provided in this Act, any party to an order
+of the Director may appeal to the Small Claims Court.
+(2) An appeal may be commenced by filing with the Small
+Claims Court, within ten days of the making of the order, a notice of appeal in the
+form prescribed by regulations made pursuant to the Small Claims Court Act
+accompanied by the fee prescribed by regulations made pursuant to the Small
+Claims Court Act .
+(3) The appellant shall serve each party to the order and the
+Director with the notice of appeal and the notice of hearing.
+(3A) Service of all documents may be by personal service or such
+other manner of service or substituted service permitted pursuant to the Small
+Claims Court Act .
+(4) The Small Claims Court shall conduct the hearing in respect
+of a matter for which a notice of appeal is filed.
+(5) The Small Claims Court shall determine its own practice and
+procedure but shall give full opportunity for the parties to present evidence and
+make submissions.
+(6) The Small Claims Court may conduct a hearing orally, includ -
+ing by telephone.
+(7) Evidence may be given before the Small Claims Court in any
+manner that the Small Claims Court considers appropriate and the Small Claims
+Court is not bound by rules of law respecting evidence applicable to judicial pro -
+ceedings.
+(8) The evidence at a hearing shall not be recorded.  1997, c. 7, s. 7;
+2002, c. 10, s. 26.
+Duties of Court on appeal
+17D (1) Within fourteen days of holding a hearing pursuant to subsec -
+tion 17C(4), the Small Claims Court shall
+(a) confirm, vary or rescind the order of the Director; or
+(b) make any order that the Director could have made.
+(2) The Small Claims Court may award to a successful party to an
+appeal the cost of the fee paid pursuant to subsection 17C(2) and any costs awarded
+to that party pursuant to clause 17A(k), but no other costs associated with the
+appeal.   1997, c. 7, s. 7; 2002, c. 10, s. 27; 2010, c. 72, s. 17.
+Appeal to Court
+17E (1) Subject to subsection (2), a party to an appeal to the Small
+Claims Court pursuant to this Act may, if that person took part in the hearing, appeal
+the order of the Small Claims Court to the Supreme Court of Nova Scotia in the
+manner set out in the  Small Claims Court Act .40 residential tenancies R.S., c. 401
+SEPTEMBER 30, 2024(2) An appeal pursuant to subsection (1) may only be taken on the
+ground of
+(a) jurisdictional error;
+(b) error of law; or
+(c) failure to follow the requirements of natural justice.
+1997, c. 7, s. 7; 2002, c. 10, s. 28.
+Evidence
+17F (1) Notwithstanding any other enactment or law but subject to
+subsection (2), neither the Director nor any other persons appointed pursuant to this
+Act may be compelled or required to
+(a) give evidence in respect of matters that come to the
+knowledge of the Director or such persons in the course of carrying
+out duties pursuant to this Act; or
+(b) produce information, records or documents of any kind
+obtained by the Director or such persons for the purpose of this Act
+or in the course of carrying out duties pursuant to this Act,
+before any court, body or person having authority to receive evidence.
+(2) Where an order of the Director has been appealed to the Small
+Claims Court, the Director may provide that Court with copies of any evidence sub -
+mitted by parties to a dispute and copies of any orders made by the Director respect -
+ing a dispute.  2010, c. 72, s. 18.
+DIRECTOR OF RESIDENTIAL TENANCIES
+18 repealed 2002, c. 10, s. 29 .
+Director of Residential Tenancies
+18A (1) The Minister shall designate a person in Service Nova Scotia
+to be the Director of Residential Tenancies, who shall exercise such powers and per -
+form such duties as are conferred or imposed on the Director by this Act or the reg -
+ulations.
+(2) The Director of Residential Tenancies may, with the approval
+of the Minister, authorize a residential tenancies officer to exercise or perform, in
+addition to or in substitution for the Director, any power or duty conferred or
+imposed on the Director by this Act or the regulations, subject to such conditions as
+the Minister may impose.  1992, c. 31, s. 9; 2002, c. 10, s. 30; 2014, c. 34, s. 58.
+PERSONNEL
+Personnel
+19 (1) There shall be appointed residential tenancy officers and such
+other persons required for the purpose of carrying out the provisions of this Act or
+any other Act.R.S., c. 401 residential tenancies 41
+SEPTEMBER 30, 2024(2) Persons appointed pursuant to subsection (1) shall be
+appointed in accordance with the Civil Service Act .
+(3) The Minister may prescribe the duties of persons appointed
+pursuant to this Section.  R.S., c. 401, s. 19.
+Declaration of interest
+19A Every person appointed pursuant to this Act shall, within thirty days
+after being appointed, where that person is appointed after this Section comes into
+force, and in all other cases within thirty days after this Section comes into force,
+file with the Minister a written declaration of any interest the person has in residen -
+tial premises, and thereafter shall annually file with the Minister a written declara -
+tion of any such interest.  1992, c. 31, s. 10.
+No action lies
+19B No action or proceeding may be brought against His Majesty in right
+of the Province, the Director, a residential tenancy officer, the Director of Victim
+Services or any other employee or agent of His Majesty for any act done or omitted
+to be done in good faith in the performance or intended performance of a duty or in
+the exercise or intended exercise of a power under this Act.  2012, c. 64, s. 5.
+PROTECTION OF TENANTS
+Consequence of retaliatory action by landlord
+20 The Director or the Small Claims Court may refuse to exercise, in
+favour of a landlord, the powers or authorities under this Act or may set aside a
+notice to quit if the Director or the Small Claims Court is of the opinion that a
+landlord has acted in retaliation for a tenant attempting to secure or enforce the ten -
+ant’s rights under this Act or the Rent Review Act .  R.S., c. 401, s. 20; 1997, c. 7, s. 9; 2002,
+c. 10, s. 31.
+ENFORCEMENT
+21 and 22 repealed 2002, c. 10, s. 32 .
+Right of entry
+22A (1) The Director may
+(a) inspect residential premises;
+(b) inspect records of security deposits in any premises,
+for the purpose of enforcing and administering this Act.
+(2) Where a judge of the provincial court is satisfied by informa -
+tion under oath that
+(a) a reasonable, unsuccessful effort to effect entry pursu -
+ant to subsection (1) has been made; or
+(b) there are reasonable grounds for believing that entry
+would be denied without a warrant,42 residential tenancies R.S., c. 401
+SEPTEMBER 30, 2024the judge may, at any time, and where necessary upon application without notice,
+issue an order authorizing the Director, with such peace officers as are required to
+assist, to enter a place and take any action authorized by subsection (1).  1992, c. 31,
+s. 14.
+PENALTY
+Offence and penalty
+23 Any person who violates or fails to comply with any order, direction
+or other requirement of the Director or the Small Claims Court or contravenes any
+provision of this Act, or any landlord who takes action against a tenant because of
+any resort by that tenant to any governmental authority in respect of the residential
+premises or because a tenant attempts to enforce or secure his rights under this Act
+or the Rent Review Act, is guilty of an offence punishable on summary conviction
+and is liable to a fine of not more than one thousand dollars.  R.S., c. 401, s. 23; 2002,
+c. 10, s. 33.
+Consent to prosecution
+24 No proceeding may be brought under Section 23 without the consent
+of the Attorney General.  R.S., c. 401, s. 24.
+APPLICATION
+Application of Act
+25 (1) This Act governs all landlords and tenants to whom this Act
+applies in respect of residential premises.
+(2) This Act binds His Majesty in right of the Province and Can -
+ada.  R.S., c. 401, s. 25; 1994, c. 32, s. 2.
+Regulations
+26 (1) The Governor in Council may make regulations
+(a) prescribing any form, fee or charge required for the
+purposes of this Act;
+(b) respecting security deposits;
+(c) prescribing a printed standard form of lease which
+shall be used by all landlords and tenants and which shall include
+(i) a description of the parties to the lease,
+(ii) a description of the premises leased,
+(iii) the term of the lease,
+(iv) the rent payable under the lease,
+(v) whether or not a security deposit is required,
+(vi) the statutory conditions,
+(vii) the terms under which the lease may be termi -
+nated,R.S., c. 401 residential tenancies 43
+SEPTEMBER 30, 2024(viii) a larger type notice to tenants that the lease will
+automatically renew if the tenant does not give a notice to quit
+within the time period set out in Section 10,
+(ix) such additional provisions as the Governor in
+Council may prescribe;
+(ca) prescribing the information to be provided by a land -
+lord to a tenant;
+(cb) repealed 1997, c. 7, s. 10 .
+(cc) prescribing the duties of the Director;
+(cd) prescribing any other class of premises that are not
+included in the definition of “residential premises” for the purpose of
+subclause 2(h)(vi);
+(cda) respecting the manner of disposing of personal prop -
+erty left by a tenant in the residential premises after the tenancy has
+terminated or the tenant has abandoned the residential premises;
+(cdb) respecting the disposal of personal property left by a
+tenant in the residential premises after the tenancy has terminated or
+the tenant has abandoned the residential premises notwithstanding
+the requirements of subsection 5(3) and the circumstances in which
+such disposal is permitted;
+(ce) prescribing the maximum amount a landlord may
+charge for expenses actually incurred in respect of a sublease or an
+assignment for the purpose of subsection 6(3);
+(cea) prescribing the form of a guarantee agreement;
+(ceb) prescribing any terms, conditions or information
+required for the purposes of a guarantee agreement;
+(cec) respecting information to be provided by a landlord to
+a guarantor;
+(ced) respecting the manner of giving notices or other docu -
+ments under a guarantee agreement;
+(cee) respecting additional circumstances in which a guaran -
+tor may terminate a guarantee agreement;
+(cef) requiring the tenant to provide information concerning
+the tenancy of the manufactured home space upon which the manu -
+factured home is located to the person who wishes to acquire title or
+possession of the manufactured home for the purpose of Statutory
+Condition 1A. in subsection 9(2);
+(ceg) respecting the form and contents of the tenant’s written
+application to the landlord on behalf of the person who wishes to
+acquire title to or possession of the manufactured home to become a
+tenant of the manufactured home space upon which the manufactured
+home is located and information to be provided to the landlord for the
+purpose of Statutory Condition 1A. in subsection 9(2);
+(ceh) respecting the manner in which the landlord may
+respond to the tenant’s written application on behalf of the person
+who wishes to acquire title to or possession of the manufactured44 residential tenancies R.S., c. 401
+SEPTEMBER 30, 2024home to become a tenant of the manufactured home space for consent
+and setting out the permissible reasons for denying the requested con -
+sent for the purpose of Statutory Conditions 1B. and 1D. in subsec -
+tion 9(2);
+(cf) prescribing acceptable proof of acceptance into a nurs -
+ing home or home for special care for the purpose of Section 10D;
+(cg) respecting the establishment of a common anniversary
+date for rent increases for tenants in a housing association for the pur -
+pose of subsection 11(2A);
+(ch) respecting an application and adjudication process for
+a rent increase that is greater than the annual allowable rent increase
+amount referred to in subsection 11B(1);
+(ci) prescribing calculations for annual allowable rent
+increase amounts for land-lease communities for the purpose of sub -
+section 11B(1);
+(cj) respecting an application and adjudication process for
+a rent increase that is greater than the annual allowable rent increase
+amount for land-lease communities for the purpose of subsection
+11B(2);
+(ck) prescribing guidelines to be considered by the Director
+in reviewing applications for rent increases by an amount greater than
+the annual allowable rent increase amount for land-lease communi -
+ties for the purpose of subsection 11B(3);
+(cl) determining interest rates from time to time for the
+purpose of subsection 12(4);
+(cm) respecting the form and content of notices to quit;
+(cn) requiring different forms of notice to quit to be used in
+respect of different grounds on which a notice to quit may be given;
+(co) prescribing the period following the making of an
+application within which a copy of the application must be served on
+the other parties;
+(cp) respecting the practice and procedure for hearings
+under Section 17;
+(cq) respecting procedures for submitting evidence for use
+at hearings, including
+(i) timelines for submitting evidence to the Direc -
+tor and to the other parties before a hearing commences,
+(ii) the types of evidence a party may submit, and
+(iii) the participation of witnesses at a hearing;
+(cr) prescribing vacant possession guidelines to be consid -
+ered by the Director in making a decision whether to grant an order
+giving a landlord vacant possession of residential premises to demol -
+ish, repair or renovate the residential premises for the purpose of sub -
+section 10AB(4);R.S., c. 401 residential tenancies 45
+SEPTEMBER 30, 2024(cs) prescribing the maximum amount of moving expenses
+that may be awarded by the Director for the purpose of clause
+10AD(a). [;]
+(d) defining any word or expression used and not defined
+herein;
+(e) respecting any matter which the Governor in Council
+considers necessary or advisable to carry out effectively the intent
+and purposes of this Act.
+(2) The exercise by the Governor in Council of the authority set
+out in subsection (1) shall be regulations under the Regulations Act .  R.S., c. 401, s. 26;
+1992, c. 31, s. 15; 1993, c. 40, s. 13; 1997, c. 7, s. 10; 2002, c. 10, s. 34; 2010, c. 72, s. 19; 2011, c. 70,
+s. 4; 2016, c. 27, s. 4; 2018, c. 41, s. 16; 2021, c. 36, s. 16.
+Waiver of fee
+27 (1) Notwithstanding anything in this Act, no fee is payable by a
+person in respect of an application to the Director where that person is receiving the
+guaranteed income supplement or income assistance or where the Director waives
+the fee.
+(2) Notwithstanding subsection 18A(2), the Director may not
+authorize a residential tenancies officer to waive an application fee.  1992, c. 31, s. 16;
+2002, c. 10, s. 35; 2016, c. 27, s. 5; 2024, c. 12, s. 24.
+28 repealed 2002, c. 10, s. 36 .
+MANUFACTURED-HOME ADVISORY COMMITTEE
+Establishment and composition of committee
+29 (1) The Minister may establish an advisory committee on manu -
+factured home tenancies to advise the Minister on the administration of manufac -
+tured homes pursuant to this Act.
+(2) The committee shall consist of an equal number of persons
+who, in the Minister’s opinion, are representative of the views of landlords and of
+tenants of manufactured homes.
+(3) The committee shall be chaired by a person appointed from
+Service Nova Scotia.
+(4) The chair of the committee shall be appointed by the Minister.
+1993, c. 40, s. 14; 2010, c. 72, s. 21; 2014, c. 34, s. 59.
+Schedule repealed 2010, c. 72, s. 23 .
+_________
